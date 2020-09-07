@@ -37,4 +37,4 @@ _Graduate Teaching Assistant (GTA)_
 
 - GV120 – Politics and Economic Policies (Autumn term) [Download class content](https://github.com/lorenzo-crippa/GV120_2019-20)
 
-- GV217 – Conflict Analysis (Spring term) [Download class content](https://github.com/lorenzo-crippa/GV217_2019-20)
+- GV217 – Conflict Analysis (Spring term) [Download class content](https://github.com/lorenzo-crippa/GV207_2019-20)
