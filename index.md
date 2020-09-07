@@ -26,9 +26,7 @@ Crippa, L., & Picci, L. Cross-border corruption and the OECD Anti-Bribery Conven
 
 _Instructor_
 
-Introduction to R
-
-[Download class content from GitHub](https://github.com/lorenzo-crippa/ESS_intro_to_R_2020)
+- Introduction to R [Download class content](https://github.com/lorenzo-crippa/ESS_intro_to_R_2020)
 
 
 ### 2019-2020
@@ -39,30 +37,8 @@ Introduction to R
 
 _Graduate Teaching Assistant (GTA)_
 
-GV300 – Advanced Quantitative Political Analysis (Full year)
+- GV300 – Advanced Quantitative Political Analysis (Full year) [Download class content](https://github.com/lorenzo-crippa/GV300_2019-20)
 
-Lecturer: Dominik Duell
+- GV120 – Politics and Economic Policies (Autumn term) [Download class content](https://github.com/lorenzo-crippa/GV120_2019-20)
 
-Class: Monday 16:00-18:00
-
-[Download class content from GitHub](https://github.com/lorenzo-crippa/GV300_2019-20)
-
-
-
-GV120 – Politics and Economic Policies (Autumn term)
-
-Lecturer: Miranda Simon
-
-Class: Friday 14:00-15:00
-
-[Download class content from GitHub](https://github.com/lorenzo-crippa/GV120_2019-20)
-
-
-
-GV217 – Conflict Analysis (Spring term)
-
-Lecturer: Brian Phillips
-
-Class: Friday 09:00-10:00
-
-[Download class content from GitHub](https://github.com/lorenzo-crippa/GV217_2019-20)
+- GV217 – Conflict Analysis (Spring term) [Download class content](https://github.com/lorenzo-crippa/GV217_2019-20)
