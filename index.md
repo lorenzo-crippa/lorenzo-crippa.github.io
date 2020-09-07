@@ -20,9 +20,7 @@ Crippa, L., & Picci, L. Cross-border corruption and the OECD Anti-Bribery Conven
 
 ### 2020
 
-**University of Essex**
-
-**Essex Summer School in Social Science Data Analysis**
+**University of Essex - Essex Summer School in Social Science Data Analysis**
 
 _Instructor_
 
@@ -31,9 +29,7 @@ _Instructor_
 
 ### 2019-2020
 
-**University of Essex**
-
-**Department of Government**
+**University of Essex - Department of Government**
 
 _Graduate Teaching Assistant (GTA)_
 
