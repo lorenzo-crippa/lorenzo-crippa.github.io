@@ -11,8 +11,8 @@ theme                    : jekyll-theme-minimal
 #naver_site_verification  :
 
 # Social Sharing
-#twitter:
-#  username               : CrippaLorenzo
+twitter:
+  username               : CrippaLorenzo
 #facebook:
 #  username               :
 #  app_id                 :
