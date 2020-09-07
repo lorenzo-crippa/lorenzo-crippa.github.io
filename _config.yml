@@ -1,6 +1,6 @@
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+#minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
@@ -81,9 +81,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Lorenzo Crippa"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : #"I am an **amazing** person."
   location         : "Colchester (UK)"
   email            : "l.crippa@essex.ac.uk"
   links:
