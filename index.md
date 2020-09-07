@@ -18,10 +18,12 @@ Crippa, L., & Picci, L. Cross-border corruption and the OECD Anti-Bribery Conven
 
 ## Teaching
 
-**2020**
+### 2020
 
-### University of Essex
-### Essex Summer School in Social Science Data Analysis
+**University of Essex**
+
+**Essex Summer School in Social Science Data Analysis**
+
 _Instructor_
 
 Introduction to R
@@ -29,15 +31,15 @@ Introduction to R
 [Download class content from GitHub](https://github.com/lorenzo-crippa/ESS_intro_to_R_2020)
 
 
-**2019-2020**
+### 2019-2020
 
-### University of Essex
-### Department of Government
+**University of Essex**
+
+**Department of Government**
+
 _Graduate Teaching Assistant (GTA)_
 
-_Full year_
-
-GV300 – Advanced Quantitative Political Analysis (2019-20)
+GV300 – Advanced Quantitative Political Analysis (Full year)
 
 Lecturer: Dominik Duell
 
@@ -46,9 +48,8 @@ Class: Monday 16:00-18:00
 [Download class content from GitHub](https://github.com/lorenzo-crippa/GV300_2019-20)
 
 
-_Autumn term_
 
-GV120 – Politics and Economic Policies (2019-20)
+GV120 – Politics and Economic Policies (Autumn term)
 
 Lecturer: Miranda Simon
 
@@ -57,9 +58,8 @@ Class: Friday 14:00-15:00
 [Download class content from GitHub](https://github.com/lorenzo-crippa/GV120_2019-20)
 
 
-_Spring term_
 
-GV217 – Conflict Analysis (2019-20)
+GV217 – Conflict Analysis (Spring term)
 
 Lecturer: Brian Phillips
 
