@@ -34,16 +34,16 @@ analytics:
 
 
 # Site Author
-#author:
-#  name             : "Lorenzo Crippa"
+author:
+  name             : "Lorenzo Crippa"
 #  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
 #  bio              : #"I am an **amazing** person."
 #  location         : "Colchester (UK)"
-#  email            : "l.crippa@essex.ac.uk"
-#  links:
-#    - label: "Email"
-#      icon: "fas fa-fw fa-envelope-square"
-#      url: "mailto:l.crippa@essex.ac.uk"
+  email            : "l.crippa@essex.ac.uk"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:l.crippa@essex.ac.uk"
 #    - label: "Website"
 #      icon: "fas fa-fw fa-link"
 #      # url: "https://your-website.com"
