@@ -1,37 +1,10 @@
-## Welcome to GitHub Pages
+# Lorenzo Crippa
 
-You can use the [editor on GitHub](https://github.com/lorenzo-crippa/lorenzo-crippa.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## Welcome!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am a PhD student from the [Department of Government at the University of Essex (UK)](https://www.essex.ac.uk/departments/government). I am interested in the construction, enforcement and effects of states' laws and international institutions that regulate firms' behaviors.
 
-### Markdown
+In my PhD thesis I focus on the multilateral cooperation to regulate corporate foreign bribery. I seek to explain variations in state capacity to hold corporations accountable for exporting corruption. I approach my study employing quantitative methods, and bringing together insights from the literature on international institutions and on political-economic determinants of firms' behaviors.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I received a Master's degree in International Relations and Diplomatic Sciences, specialisation in International Political Economy (full marks and honours) from the University of Bologna (IT), and a Bachelor degree in Philosophy (full marks and honours) from the University of Milan (IT).
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lorenzo-crippa/lorenzo-crippa.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
