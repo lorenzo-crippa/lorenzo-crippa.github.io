@@ -1,4 +1,4 @@
-## Welcome!
+# Welcome!
 
 I am a PhD student from the [Department of Government at the University of Essex (UK)](https://www.essex.ac.uk/departments/government). I am interested in the construction, enforcement and effects of states' laws and international institutions that regulate firms' behaviors.
 
@@ -10,6 +10,7 @@ You can find a copy of my CV [here](lorenzo-crippa.github.io/cv.pdf) (updated Se
 
 ## Working papers
 Crippa, L., Wittek, R., & Silitonga, M. S. (2020). Does aid spur corruption? An empirical test of the “Curse of Aid” hypothesis in Indonesian provinces. (Submitted).
+
 Crippa, L. (2020). The conditional arm of the law. The effect of the OECD Anti-Bribery Convention on foreign direct investment.
 
 ## Work in progress
@@ -26,6 +27,7 @@ _Instructor_
 Introduction to R
 
 [Download class content from GitHub](https://github.com/lorenzo-crippa/ESS_intro_to_R_2020)
+
 
 **2019-2020**
 
@@ -53,6 +55,7 @@ Lecturer: Miranda Simon
 Class: Friday 14:00-15:00
 
 [Download class content from GitHub](https://github.com/lorenzo-crippa/GV120_2019-20)
+
 
 _Spring term_
 
