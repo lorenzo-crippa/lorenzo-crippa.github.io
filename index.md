@@ -2,8 +2,6 @@
 layout: default
 ---
 <br><br>
-
-
 # Welcome!
 
 I am a PhD student from the [Department of Government at the University of Essex (UK)](https://www.essex.ac.uk/departments/government). I am interested in the construction, enforcement and effects of states' laws and international institutions that regulate firms' behaviors.
