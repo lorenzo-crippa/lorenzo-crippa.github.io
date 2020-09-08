@@ -1,6 +1,8 @@
 title                    : "Lorenzo Crippa"
 name                     : "Lorenzo Crippa"
-description              : "University of Essex, Department of Government"
+description              : "University of Essex, Department of Government
+
+                            [l.crippa@essex.ac.uk](mailto:l.crippa@essex.ac.uk)"
 logo                     : "https://lh3.googleusercontent.com/9VHvTXpQ6mHZP1I89yvFJlq4qMlolGj7M7fKiV_ofDlEWy7G0WJ4DA3E2ANPAMxhiIkEauxOqViQ2Zn1S2F0SBqnPNxa-ZjJ6fcUeW1C_-yRh-baZg=w1280"
 theme                    : jekyll-theme-minimal
 
