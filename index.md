@@ -15,16 +15,16 @@ I received a Master's degree in International Relations and Diplomatic Sciences,
 You can find a copy of my CV [here](assets/LorenzoCrippa_CV_2020_09_07.pdf) (updated September 2020).
 
 
-## Working papers
+## Research
+### Working papers
 Crippa, L., Wittek, R., & Silitonga, M. S. (2020). Does aid spur corruption? An empirical test of the “Curse of Aid” hypothesis in Indonesian provinces. (Submitted).
 
 Crippa, L. (2020). The conditional arm of the law. The effect of the OECD Anti-Bribery Convention on foreign direct investment.
 
-## Work in progress
+### Work in progress
 Crippa, L., & Picci, L. Cross-border corruption and the OECD Anti-Bribery Convention: the determinants of compliance.
 
 ## Teaching
-
 ### University of Essex 
 ### Essex Summer School in Social Science Data Analysis
 
@@ -35,7 +35,7 @@ _Instructor_
 - Introduction to R [Download class content](https://github.com/lorenzo-crippa/ESS_intro_to_R_2020)
 
 ### University of Essex 
-### Department of Government**
+### Department of Government
 
 **2019-2020**
 
