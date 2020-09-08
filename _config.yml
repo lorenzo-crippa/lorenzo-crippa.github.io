@@ -14,3 +14,7 @@ gems:
 # Build settings
 markdown: kramdown
 theme: jekyll-theme-minimal
+
+# Options added by LC:
+# SEO-related
+google_site_verification : googled86a8d80691d0ddc.html
