@@ -5,10 +5,10 @@ logo                     : "https://lh3.googleusercontent.com/9VHvTXpQ6mHZP1I89y
 theme                    : jekyll-theme-minimal
 
 # SEO Related
-google_site_verification :
-bing_site_verification   :
-yandex_site_verification :
-naver_site_verification  :
+google_site_verification : googled86a8d80691d0ddc.html
+#bing_site_verification   :
+#yandex_site_verification :
+#naver_site_verification  :
 
 # Social Sharing
 twitter:
