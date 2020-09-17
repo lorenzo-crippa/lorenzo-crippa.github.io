@@ -47,11 +47,11 @@ _Graduate Teaching Assistant_
 
 _Graduate Teaching Assistant_
 
-- Advanced Quantitative Political Analysis (Full year) [Download class content](https://github.com/lorenzo-crippa/GV300_2019-20)
+- Advanced Quantitative Political Analysis (Full year). [Download class content](https://github.com/lorenzo-crippa/GV300_2019-20)
 
-- Politics and Economic Policies (Autumn term) [Download class content](https://github.com/lorenzo-crippa/GV120_2019-20)
+- Politics and Economic Policies (Autumn term). [Download class content](https://github.com/lorenzo-crippa/GV120_2019-20)
 
-- Conflict Analysis (Spring term) [Download class content](https://github.com/lorenzo-crippa/GV217_2019-20)
+- Conflict Analysis (Spring term). [Download class content](https://github.com/lorenzo-crippa/GV217_2019-20)
 
 ### University of Essex 
 ### Essex Summer School in Social Science Data Analysis
@@ -60,4 +60,4 @@ _Graduate Teaching Assistant_
 
 _Instructor_
 
-- Introduction to R [Download class content](https://github.com/lorenzo-crippa/ESS_intro_to_R_2020)
+- Introduction to R. [Download class content](https://github.com/lorenzo-crippa/ESS_intro_to_R_2020)
