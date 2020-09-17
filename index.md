@@ -30,7 +30,28 @@ Crippa, L., & Picci, L. Cross-border corruption and the OECD Anti-Bribery Conven
 
 _Teaching Fellow_
 
-- Quantitative Research Methods (Autumn term)
+- Quantitative Research Methods (Autumn term). 
+
+Please contact me at [l.crippa@ucl.ac.uk](mailto:l.crippa@ucl.ac.uk) for queries related to this appointment
+
+### University of Essex
+### Department of Government
+
+**2020-2021**
+
+_Graduate Teaching Assistant_
+
+- Q-step pathway (Full year)
+
+**2019-2020**
+
+_Graduate Teaching Assistant_
+
+- Advanced Quantitative Political Analysis (Full year) [Download class content](https://github.com/lorenzo-crippa/GV300_2019-20)
+
+- Politics and Economic Policies (Autumn term) [Download class content](https://github.com/lorenzo-crippa/GV120_2019-20)
+
+- Conflict Analysis (Spring term) [Download class content](https://github.com/lorenzo-crippa/GV217_2019-20)
 
 ### University of Essex 
 ### Essex Summer School in Social Science Data Analysis
@@ -40,16 +61,3 @@ _Teaching Fellow_
 _Instructor_
 
 - Introduction to R [Download class content](https://github.com/lorenzo-crippa/ESS_intro_to_R_2020)
-
-### University of Essex 
-### Department of Government
-
-**2019-2020**
-
-_Graduate Teaching Assistant (GTA)_
-
-- Advanced Quantitative Political Analysis (Full year) [Download class content](https://github.com/lorenzo-crippa/GV300_2019-20)
-
-- Politics and Economic Policies (Autumn term) [Download class content](https://github.com/lorenzo-crippa/GV120_2019-20)
-
-- Conflict Analysis (Spring term) [Download class content](https://github.com/lorenzo-crippa/GV217_2019-20)
