@@ -9,7 +9,7 @@ In my PhD thesis I focus on the multilateral cooperation to regulate corporate f
 
 I received a Master's degree in International Relations and Diplomatic Sciences, specialisation in International Political Economy (full marks and honours) from the University of Bologna (IT), and a Bachelor degree in Philosophy (full marks and honours) from the University of Milan (IT).
 
-You can find a copy of my CV [here](assets/LorenzoCrippa_CV_2020_09_15.pdf) (updated September 2020).
+You can find a copy of my CV [here](assets/LorenzoCrippa_CV_2020_09_17.pdf) (updated September 2020).
 
 
 ## Research
