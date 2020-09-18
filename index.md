@@ -30,7 +30,7 @@ Crippa, L., & Picci, L. Cross-border corruption and the OECD Anti-Bribery Conven
 
 _Teaching Fellow_
 
-- Introduction to Quantitative Methods (Autumn term). 
+- Introduction to Quantitative Methods (Autumn term)
 
 Please contact me at [l.crippa@ucl.ac.uk](mailto:l.crippa@ucl.ac.uk) for queries related to this appointment
 
