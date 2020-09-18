@@ -47,7 +47,7 @@ _Graduate Teaching Assistant_
 
 _Graduate Teaching Assistant_
 
-- Advanced Quantitative Political Analysis (Full year). [Download class content](https://github.com/lorenzo-crippa/GV300_2019-20)
+- Quantitative Political Analysis (Full year). [Download class content](https://github.com/lorenzo-crippa/GV300_2019-20)
 
 - Politics and Economic Policies (Autumn term). [Download class content](https://github.com/lorenzo-crippa/GV120_2019-20)
 
