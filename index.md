@@ -11,7 +11,7 @@ I received a Master's degree in International Relations and Diplomatic Sciences,
 
 You can find a copy of my CV [here](assets/LorenzoCrippa_CV_2020_09_18.pdf) (updated September 2020). 
 
-[Here](https://lorenzo-crippa.github.io/Miscellaneous)'s a link to non-academic miscellaneous things I very much like (update in progress).
+[Click here](https://lorenzo-crippa.github.io/Miscellaneous) for non-academic miscellaneous things I very much like (update in progress).
 
 
 ## Research
