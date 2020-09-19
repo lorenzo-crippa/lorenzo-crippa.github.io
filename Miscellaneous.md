@@ -6,3 +6,4 @@ permalink: /Miscellaneous/
 
 ## Miscellaneous
 ### Hiking
+
