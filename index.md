@@ -22,7 +22,6 @@ Crippa, L. (2020). The conditional arm of the law. The effect of the OECD Anti-B
 Crippa, L., & Picci, L. Cross-border corruption and the OECD Anti-Bribery Convention: the determinants of compliance.
 
 ## Teaching
-
 ### University College London
 ### Department of Political Science & School of Public Policy
 
