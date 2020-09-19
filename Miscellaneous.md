@@ -5,7 +5,7 @@ permalink: /Miscellaneous/
 ---
 
 ## Miscellaneous
-### Hiking
+### Hiking, skiing, and snowboarding
 
 **2020**
 
