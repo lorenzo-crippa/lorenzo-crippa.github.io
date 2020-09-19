@@ -23,7 +23,7 @@ Crippa, L. (2020). The conditional arm of the law. The effect of the OECD Anti-B
 ### Work in progress
 Crippa, L., & Picci, L. Cross-border corruption and the OECD Anti-Bribery Convention: the determinants of compliance.
 
-## Teaching
+## Current Teaching
 ### University College London
 ### Department of Political Science & School of Public Policy
 
@@ -33,7 +33,7 @@ _Teaching Fellow_
 
 - Introduction to Quantitative Methods (Autumn term)
 
-Please contact me at [l.crippa@ucl.ac.uk](mailto:l.crippa@ucl.ac.uk) for queries related to this appointment
+Please contact me at [l.crippa@ucl.ac.uk](mailto:l.crippa@ucl.ac.uk) for queries related to this appointment.
 
 ### University of Essex
 ### Department of Government
@@ -44,21 +44,4 @@ _Graduate Teaching Assistant_
 
 - Q-step pathway (Full year)
 
-**2019-2020**
-
-_Graduate Teaching Assistant_
-
-- Quantitative Political Analysis (Full year). [Download class content](https://github.com/lorenzo-crippa/GV300_2019-20)
-
-- Politics and Economic Policies (Autumn term). [Download class content](https://github.com/lorenzo-crippa/GV120_2019-20)
-
-- Conflict Analysis (Spring term). [Download class content](https://github.com/lorenzo-crippa/GV217_2019-20)
-
-### University of Essex 
-### Essex Summer School in Social Science Data Analysis
-
-**2020**
-
-_Instructor_
-
-- Introduction to R. [Download class content](https://github.com/lorenzo-crippa/ESS_intro_to_R_2020)
+[Click here](https://lorenzo-crippa.github.io/Teaching) for present and past teaching appointments.
