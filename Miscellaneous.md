@@ -9,6 +9,58 @@ permalink: /Miscellaneous/
 
 **2020**
 
+Cimon della Bagozza. Val di Salve (BG), Italy
+
+![](assets_misc/cimon_bagozza.jpg)
+
+Pizzo Camino, Pizzo della Presolana. Val di Scalve (BG), Italy
+
+![](assets_misc/val_di_scalve.jpg)
+
+Gran Sasso d'Italia, summit (2912m). 
+
+![](assets_misc/gran_sasso_summit.jpg)
+
+Gran Sasso d'Italia
+
+![](assets_misc/gran_sasso1.jpg)
+
+![](assets_misc/gran_sasso2.jpg)
+
+![](assets_misc/gran_sasso3.jpg)
+
+Lago Branchino. Val Brembana (BG), Italy
+
+![](assets_misc/lago_branchino.jpg)
+
+Pizzo Arera. Val Brembana (BG), Italy
+
+![](assets_misc/pizzo_arera.jpg)
+
+Laghi Gemelli. Val Brembana (BG), Italy
+
+![](assets_misc/laghi_gemelli1.jpg)
+
+![](assets_misc/laghi_gemelli2.jpg)
+
+![](assets_misc/laghi_gemelli3.jpg)
+
+Corna Trenta Passi. Lago d'Iseo (BG), Italy
+
+![](assets_misc/trenta_passi.jpg)
+
+Pizzo della Presolana. Val di Scalve (BG), Italy
+
+![](assets_misc/presolana.jpg)
+
+Gleno Dam (collapsed 1923). Val di Scalve (BG), Italy
+
+![](assets_misc/gleno1.jpg)
+
+![](assets_misc/gleno2.jpg)
+
+![](assets_misc/gleno3.jpg)
+
 **2019**
 
 **2018**
