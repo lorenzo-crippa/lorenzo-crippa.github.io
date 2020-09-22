@@ -17,11 +17,11 @@ Pizzo Camino, Pizzo della Presolana. Val di Scalve (BG), Italy
 
 ![](assets_misc/val_di_scalve.jpg)
 
-Gran Sasso d'Italia, summit (2912m). 
+Gran Sasso d'Italia, Corno Grande (2912m). Gran Sasso e Monti della Laga National Park (AQ), Italy 
 
 ![](assets_misc/gran_sasso_summit.jpg)
 
-Gran Sasso d'Italia
+Gran Sasso d'Italia. Gran Sasso e Monti della Laga National Park (AQ), Italy
 
 ![](assets_misc/gran_sasso1.jpg)
 
@@ -60,6 +60,14 @@ Gleno Dam (collapsed 1923). Val di Scalve (BG), Italy
 ![](assets_misc/gleno2.jpg)
 
 ![](assets_misc/gleno3.jpg)
+
+Foppolo Ski Resort. Val Brembana (BG), Italy
+
+![](assets_misc/foppolo1.jpg)
+
+![](assets_misc/foppolo2.jpg)
+
+![](assets_misc/foppolo3.jpg)
 
 **2019**
 
