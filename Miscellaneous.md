@@ -85,7 +85,7 @@ Aschtalm. Gsiesertal (BZ), Italy
 
 ![](assets_misc/ascht_alm2.jpg)
 
-![](assets_misc/ascht_alm_vid.mov)
+![](assets_misc/ascht_alm_vid.mp4)
 
 Uwaldalm. Gsiesertal (BZ), Italy
 
