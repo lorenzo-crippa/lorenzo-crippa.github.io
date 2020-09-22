@@ -9,7 +9,7 @@ permalink: /Miscellaneous/
 
 **2020**
 
-Cimon della Bagozza. Val di Salve (BG), Italy
+Cimon della Bagozza. Val di Scalve (BG), Italy
 
 ![](assets_misc/cimon_bagozza.jpg)
 
@@ -61,7 +61,7 @@ Gleno Dam (collapsed 1923). Val di Scalve (BG), Italy
 
 ![](assets_misc/gleno3.jpg)
 
-Foppolo Ski Resort. Val Brembana (BG), Italy
+Foppolo Ski Resort. Foppolo, Val Brembana (BG), Italy
 
 ![](assets_misc/foppolo1.jpg)
 
