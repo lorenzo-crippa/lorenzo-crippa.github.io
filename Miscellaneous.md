@@ -71,5 +71,29 @@ Foppolo Ski Resort. Val Brembana (BG), Italy
 
 **2019**
 
+St. Magdalena-Obertal. Gsiesertal (BZ), Italy
+
+![](assets_misc/gsiesertal1.jpg)
+
+![](assets_misc/gsiesertal2.jpg)
+
+![](assets_misc/gsiesertal3.jpg)
+
+Aschtalm. Gsiesertal (BZ), Italy
+
+![](assets_misc/ascht_alm1.jpg)
+
+![](assets_misc/ascht_alm2.jpg)
+
+![](assets_misc/ascht_alm_vid.mov)
+
+Uwaldalm. Gsiesertal (BZ), Italy
+
+![](assets_misc/uwald_alm1.jpg)
+
+![](assets_misc/uwald_alm2.jpg)
+
+
+
 **2018**
 
