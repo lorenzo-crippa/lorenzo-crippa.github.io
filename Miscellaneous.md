@@ -93,7 +93,17 @@ Uwaldalm. Gsiesertal (BZ), Italy
 
 ![](assets_misc/uwald_alm2.jpg)
 
+Sexten Dolomites. Pustertal (BZ), Italy
 
+![](assets_misc/dolomites.jpg)
+
+Drei Zinnen Ski Resort. Sexten (BZ), Italy
+
+![](assets_misc/3_zinnen1.jpg)
+
+![](assets_misc/3_zinnen2.jpg)
+
+![](assets_misc/3_zinnen3.jpg)
 
 **2018**
 
