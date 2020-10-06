@@ -3,7 +3,7 @@ layout: default
 ---
 <br><br>
 
-I am a PhD student from the [Department of Government at the University of Essex (UK)](https://www.essex.ac.uk/departments/government) and a Teaching Fellow in the [Department of Political Science at the University College London (UK)](https://www.ucl.ac.uk/political-science/). I am interested in the construction, enforcement and effects of states' laws and international institutions that regulate firms' behaviors.
+I am a PhD student from the [Department of Government at the University of Essex (UK)](https://www.essex.ac.uk/departments/government) and Associate Lecturer (Teaching Fellow) in the [Department of Political Science at the University College London (UK)](https://www.ucl.ac.uk/political-science/). I am interested in the construction, enforcement and effects of states' laws and international institutions that regulate firms' behaviors.
 
 In my PhD thesis I focus on the multilateral cooperation to regulate corporate foreign bribery. I seek to explain variations in state capacity to hold corporations accountable for exporting corruption. I approach my study employing quantitative methods, and bringing together insights from the literature on international institutions and on political-economic determinants of firms' behaviors.
 
