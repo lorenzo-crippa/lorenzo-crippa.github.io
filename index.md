@@ -31,7 +31,7 @@ _Teaching Fellow_
 
 - Introduction to Quantitative Methods (Autumn term)
 
-Office hour (Autumn term, UCL): Thursday 1-3pm, virtual. Please set up meetings on Bookings.
+Office hour (Autumn term, UCL): Thursday 1-3pm, virtual. Please set up meetings on UCL Bookings.
 
 Please contact me at [l.crippa@ucl.ac.uk](mailto:l.crippa@ucl.ac.uk) for queries related to this appointment.
 
