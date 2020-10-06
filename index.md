@@ -27,7 +27,7 @@ Crippa, L., & Picci, L. Cross-border corruption and the OECD Anti-Bribery Conven
 ### University College London
 ### Department of Political Science & School of Public Policy
 
-_Teaching Fellow_
+_Associate Lecturer (Teaching Fellow)_
 
 - Introduction to Quantitative Methods (Autumn term)
 
