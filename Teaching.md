@@ -9,7 +9,7 @@ permalink: /Teaching/
 
 **2020-2021**
 
-_Teaching Fellow_
+_Associate Lecturer (Teaching Fellow)_
 
 - Introduction to Quantitative Methods (Autumn term)
 
