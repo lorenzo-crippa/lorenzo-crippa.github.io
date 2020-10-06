@@ -13,8 +13,6 @@ _Teaching Fellow_
 
 - Introduction to Quantitative Methods (Autumn term)
 
-Please contact me at [l.crippa@ucl.ac.uk](mailto:l.crippa@ucl.ac.uk) for queries related to this appointment
-
 ### University of Essex
 ### Department of Government
 
