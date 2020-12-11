@@ -12,6 +12,7 @@ permalink: /Teaching/
 _Associate Lecturer (Teaching Fellow)_
 
 - Introduction to Quantitative Methods (Autumn term)
+- Advanced Quantitative Methods (Spring term)
 
 ### University of Essex
 ### Department of Government
