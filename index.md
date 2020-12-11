@@ -20,14 +20,16 @@ Crippa, L. (2020). The conditional arm of the law. The effect of the OECD Anti-B
 
 Crippa, L., Wittek, R., & Silitonga, M. S. (2020). Does aid spur corruption? An empirical test of the “Curse of Aid” hypothesis in Indonesian provinces. (Submitted).
 
-### Work in progress
-Crippa, L., & Genovese, F. Papal Dividends: Do Pope’s Political Positions Move Economic Markets?
+Crippa, L., & Genovese, F. (2020). Papal Dividends: Do Pope’s Political Positions Move Economic Markets?
 
+### Work in progress
 Crippa, L., Lawful competitive advantage. How prosecutors win international competition for the prosecution of corporate crime
 
 Crippa, L., & Saavedra-Lux, L. Oiling guns: How FDI in oil and gas extraction affects conflict dynamics.
 
 Crippa, L., & Picci, L. Cross-border corruption and the OECD Anti-Bribery Convention: the determinants of compliance.
+
+Crippa, L., Gizelis, T. I., Krause, J. & Minoletti, P. Differences in Citizens’ Budget Preferences in Myanmar: Evidence from a New Survey
 
 ## Teaching (2020-2021)
 ### University College London
