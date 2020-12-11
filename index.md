@@ -11,7 +11,7 @@ I received a Master's degree in International Relations and Diplomatic Sciences,
 
 [Click here](assets/LorenzoCrippa_CV_2020_10_06.pdf) for a copy of my CV (updated October 2020). 
 
-[Click here](https://lorenzo-crippa.github.io/Miscellaneous) for non-academic miscellaneous things I like a lot (update in progress).
+[Click here](https://lorenzo-crippa.github.io/Miscellaneous) for non-academic miscellaneous things I like a lot (update slowly in progress).
 
 
 ## Research
@@ -22,6 +22,8 @@ Crippa, L., Wittek, R., & Silitonga, M. S. (2020). Does aid spur corruption? An 
 
 ### Work in progress
 Crippa, L., & Genovese, F. Papal Dividends: Do Pope’s Political Positions Move Economic Markets?
+
+Crippa, L., Lawful competitive advantage. How prosecutors win international competition for the prosecution of corporate crime
 
 Crippa, L., & Saavedra-Lux, L. Oiling guns: How FDI in oil and gas extraction affects conflict dynamics.
 
@@ -34,6 +36,7 @@ Crippa, L., & Picci, L. Cross-border corruption and the OECD Anti-Bribery Conven
 _Associate Lecturer (Teaching Fellow)_
 
 - Introduction to Quantitative Methods (Autumn term)
+- Advanced Quantitative Methods (Spring term)
 
 Office hour (Autumn term, UCL): Thursday 1-3pm, virtual. Please set up meetings on UCL Bookings.
 
