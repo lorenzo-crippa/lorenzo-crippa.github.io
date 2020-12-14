@@ -16,11 +16,11 @@ I received a Master's degree in International Relations and Diplomatic Sciences,
 
 ## Research
 ### Working papers
+Crippa, L., & Genovese, F. (2020). Papal Dividends: Do Pope’s Political Communication Move Economic Markets?
+
 Crippa, L. (2020). The conditional arm of the law. The effect of the OECD Anti-Bribery Convention on foreign direct investment. [Download paper](assets/conditional_arm.pdf).
 
 Crippa, L., Wittek, R., & Silitonga, M. S. (2020). Does aid spur corruption? An empirical test of the “Curse of Aid” hypothesis in Indonesian provinces. (Submitted).
-
-Crippa, L., & Genovese, F. (2020). Papal Dividends: Do Pope’s Political Communication Move Economic Markets?
 
 ### Work in progress
 Crippa, L., Lawful competitive advantage. How prosecutors win international competition for the prosecution of corporate crime
