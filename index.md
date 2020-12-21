@@ -50,5 +50,3 @@ Please contact me at [l.crippa@ucl.ac.uk](mailto:l.crippa@ucl.ac.uk) for queries
 _Graduate Teaching Assistant_
 
 - Q-step pathway (Full year)
-
-[//]: <> [Click here](https://lorenzo-crippa.github.io/Teaching) for present and past teaching appointments.
