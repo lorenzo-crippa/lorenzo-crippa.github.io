@@ -6,7 +6,7 @@ permalink: /Research/
 ## Research
 
 ### Working papers
-Crippa, L., & Genovese, F. (2020). Papal Dividends: Do Pope’s Political Communication Move Economic Markets?
+Crippa, L., & Genovese, F. (2020). Papal Dividends: Do Pope’s Political Communications Move Economic Markets?
 
 Crippa, L. (2020). The conditional arm of the law. The effect of the OECD Anti-Bribery Convention on foreign direct investment. [Download paper](assets/conditional_arm.pdf).
 
