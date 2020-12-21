@@ -33,7 +33,7 @@ Crippa, L., Gizelis, T. I., Krause, J. & Minoletti, P. Differences in Citizensâ€
 
 ## [Teaching](https://lorenzo-crippa.github.io/Teaching) (2020-2021)
 ### University College London
-### Department of Political Science & School of Public Policy
+### Department of Political Science
 
 _Associate Lecturer (Teaching Fellow)_
 
