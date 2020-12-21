@@ -14,7 +14,7 @@ I received a Master's degree in International Relations and Diplomatic Sciences,
 [Click here](https://lorenzo-crippa.github.io/Miscellaneous) for non-academic miscellaneous things I like a lot (update slowly in progress).
 
 
-## Research
+## [Research](https://lorenzo-crippa.github.io/Research)
 ### Working papers
 Crippa, L., & Genovese, F. (2020). Papal Dividends: Do Pope’s Political Communications Move Economic Markets?
 
@@ -31,7 +31,7 @@ Crippa, L., & Picci, L. Cross-border corruption and the OECD Anti-Bribery Conven
 
 Crippa, L., Gizelis, T. I., Krause, J. & Minoletti, P. Differences in Citizens’ Budget Preferences in Myanmar: Evidence from a New Survey
 
-## Teaching (2020-2021)
+## [Teaching](https://lorenzo-crippa.github.io/Teaching) (2020-2021)
 ### University College London
 ### Department of Political Science & School of Public Policy
 
