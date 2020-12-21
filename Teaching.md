@@ -5,7 +5,7 @@ permalink: /Teaching/
 ---
 ## Teaching
 ### University College London
-### Department of Political Science & School of Public Policy
+### Department of Political Science
 
 **2020-2021**
 
