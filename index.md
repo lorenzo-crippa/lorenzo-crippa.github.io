@@ -51,4 +51,4 @@ _Graduate Teaching Assistant_
 
 - Q-step pathway (Full year)
 
-[Click here](https://lorenzo-crippa.github.io/Teaching) for present and past teaching appointments.
+[//]: <> [Click here](https://lorenzo-crippa.github.io/Teaching) for present and past teaching appointments.
