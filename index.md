@@ -22,14 +22,14 @@ Crippa, L., & Genovese, F. (2020). Papal Dividends: Do Pope’s Political Commun
 
 Crippa, L., Gizelis, T. I., Krause, J. & Minoletti, P. (2020). Differences in Citizens’ Budget Preferences in Myanmar: Evidence from a New Survey
 
-Crippa, L., Wittek, R., & Silitonga, M. S. (2020). Does aid spur corruption? An empirical test of the “Curse of Aid” hypothesis in Indonesian provinces. (Submitted).
+Crippa, L., Wittek, R., & Silitonga, M. S. (2020). Does aid spur corruption? An empirical test of the “Curse of Aid” hypothesis in Indonesian provinces. (Submitted)
 
 ### Work in progress
 Crippa, L., Lawful competitive advantage. How prosecutors win international competition for the prosecution of corporate crime
 
-Crippa, L., & Saavedra-Lux, L. Oiling guns: How FDI in oil and gas extraction affects conflict dynamics.
+Crippa, L., & Saavedra-Lux, L. Oiling guns: How FDI in oil and gas extraction affects conflict dynamics
 
-Crippa, L., & Picci, L. Cross-border corruption and the OECD Anti-Bribery Convention: the determinants of compliance.
+Crippa, L., & Picci, L. Cross-border corruption and the OECD Anti-Bribery Convention: the determinants of compliance
 
 ## [Teaching](https://lorenzo-crippa.github.io/Teaching) (2020-2021)
 ### University College London
