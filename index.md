@@ -40,7 +40,7 @@ _Associate Lecturer (Teaching Fellow)_
 - Introduction to Quantitative Methods (Autumn term)
 - Advanced Quantitative Methods (Spring term)
 
-Office hour (Autumn term, UCL): Thursday 11am-12noon, virtual. Please set up meetings on UCL Bookings.
+Office hour (Spring term, UCL): Thursday 11am-12noon, virtual. Please set up meetings on UCL Bookings.
 
 Please contact me at [l.crippa@ucl.ac.uk](mailto:l.crippa@ucl.ac.uk) for queries related to this appointment.
 
