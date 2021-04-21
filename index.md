@@ -9,16 +9,16 @@ In my PhD thesis I focus on the multilateral cooperation to regulate corporate f
 
 I received a Master's degree in International Relations and Diplomatic Sciences, specialisation in International Political Economy (full marks and honours) from the University of Bologna (IT), and a Bachelor degree in Philosophy (full marks and honours) from the University of Milan (IT).
 
-[Click here](assets/cv.pdf) for a copy of my CV (updated February 2021). 
+[Click here](assets/cv.pdf) for a copy of my CV (updated April 2021). 
 
 [Click here](https://lorenzo-crippa.github.io/Miscellaneous) for non-academic miscellaneous things I like a lot (update slowly in progress).
 
 
 ## [Research](https://lorenzo-crippa.github.io/Research)
 ### Working papers
-Crippa, L. (2020). The conditional arm of the law. The effect of the OECD Anti-Bribery Convention on foreign direct investment. [Download paper](assets/conditional_arm.pdf)
+Crippa, L. (2021). The conditional arm of the law. The effect of the OECD Anti-Bribery Convention on foreign direct investment. [Download paper](assets/conditional_arm.pdf)
 
-Crippa, L., & Genovese, F. (2020). Papal Dividends: Do Pope’s Political Communications Move Economic Markets?
+Crippa, L., & Genovese, F. (2021). Papal Dividends: Do Pope’s Political Communications Move Economic Markets?
 
 Crippa, L., Gizelis, T. I., Krause, J. & Minoletti, P. (2020). Differences in Citizens’ Budget Preferences in Myanmar: Evidence from a New Survey
 
