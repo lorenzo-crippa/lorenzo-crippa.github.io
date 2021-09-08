@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+You can download a copy of my CV [here](https://lorenzo-crippa.github.io/files/cv.pdf)
+
 Education
 ======
 * B.S. in GitHub, GitHub University, 2012
