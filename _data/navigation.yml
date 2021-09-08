@@ -3,12 +3,9 @@ main:
 #  - title: "Publications"
 #    url: /publications/
 
-  - title: "Research"
-    url: /research/
-
-  #- title: "Talks"
-  #  url: /talks/    
-
+  - title: "Guide"
+    url: /markdown/
+ 
   - title: "Teaching"
     url: /teaching/    
     
@@ -17,6 +14,6 @@ main:
     
   - title: "CV"
     url: /cv/
-
+    
 #- title: "Miscellaneous"
 #    url: /miscellaneous/
