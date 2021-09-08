@@ -12,4 +12,4 @@ This paper studies the effect of home country anti-bribery policies on companies
 
 [Download paper here](http://lorenzo-crippa.github.io/files/conditional_arm.pdf)
 
-Recommended citation: Crippa, Lorenzo. (2021). "The Conditional Arm of the Law. The Effect of the OECD Anti-Bribery Convention on Foreign Direct Investment." <i>Working paper</i>.
+Crippa, Lorenzo. (2021). "The Conditional Arm of the Law. The Effect of the OECD Anti-Bribery Convention on Foreign Direct Investment." <i>Working paper</i>.
