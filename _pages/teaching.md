@@ -6,7 +6,7 @@ author_profile: true
 ---
 ## University College London. Department of Political Science
 
-### 2020-present
+### 2020 -- present
 
 _Associate Lecturer (Teaching Fellow)_
 
@@ -29,13 +29,13 @@ _Teaching Assistant_
 
 ## University of Essex. Department of Government
 
-**2020-2021**
+### 2020 -- 2021
 
 _Graduate Teaching Assistant_
 
 - Q-step pathway (Full year)
 
-**2019-2020**
+### 2019 -- 2020
 
 _Graduate Teaching Assistant_
 
