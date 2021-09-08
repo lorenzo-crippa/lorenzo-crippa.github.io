@@ -6,7 +6,4 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-
-{% include base_path %}
-
 You can download a copy of my CV [here](https://lorenzo-crippa.github.io/files/cv.pdf)
