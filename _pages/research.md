@@ -1,9 +1,12 @@
 ---
-layout: archive
-title: "Research"
 permalink: /research/
+title: "Research"
 author_profile: true
-  ---
+redirect_from: 
+  - /md/
+  - /markdown.html
+---
+
 ## Working papers
 Crippa, L. (2021). The conditional arm of the law. The effect of the OECD Anti-Bribery Convention on foreign direct investment. [Download paper](assets/conditional_arm.pdf)
 
