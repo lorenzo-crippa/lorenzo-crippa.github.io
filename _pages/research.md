@@ -20,7 +20,7 @@ Crippa, L., Wittek, R., & Silitonga, M. S. (2020). Does Aid Spur Corruption? An 
 
 Crippa, L. A Blind Eye to Please the Company. Why Do Countries Defect from Their Corporate Regulatory Mandates?
 
-Crippa, L. A Synthetic Counterfactual Solution to the Identification of Staggered Treatment Effects in Panel Data
+Crippa, L. A Synthetic Counterfactual Solution to the Identification of Staggered Treatment Effects in Unbalanced Panel Data
 
 Crippa, L., & Saavedra-Lux, L. Go Fight Elsewhere! FDI and the Diffusion of Conflict
 
