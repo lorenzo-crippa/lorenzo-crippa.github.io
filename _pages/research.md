@@ -18,7 +18,7 @@ Crippa, L., Wittek, R., & Silitonga, M. S. (2020). Does Aid Spur Corruption? An 
 
 ## Work in progress
 
-Crippa, L. A Blind Eye to Please the Company. Why Do Countries Defect from Their Corporate Regulatory Mandates?
+Crippa, L. Out of Sight Out of Mind. Why Do Countries Defect from Their Corporate Regulatory Mandates?
 
 Crippa, L. A Synthetic Counterfactual Solution to the Identification of Staggered Treatment Effects in Unbalanced Panel Data
 
