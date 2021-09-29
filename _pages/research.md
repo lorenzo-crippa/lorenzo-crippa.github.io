@@ -10,7 +10,7 @@ Crippa, L. (2021). The conditional arm of the law. The effect of the OECD Anti-B
 
 Crippa, L., & Genovese, F. (2021). Papal Dividends: Do Pope’s Political Communications Move Economic Markets?
 
-Crippa, L. (2021). Global Firms and Global Sheriffs. How Private Foreign Investment Empowers Enforcement of International Regimes. [Download paper](https://lorenzo-crippa.github.io/files/sheriffs.pdf).
+Crippa, L. (2021). Global Firms and Global Sheriffs. Why Territory Matters for Extraterritorial Enforcement of Regulatory Regimes. [Download paper](https://lorenzo-crippa.github.io/files/sheriffs.pdf).
 
 Crippa, L., Gizelis, T. I., Krause, J., & Minoletti, P. (2020). Differences in Citizens’ Budget Preferences in Myanmar: Evidence from a New Survey
 
