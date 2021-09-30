@@ -5,25 +5,33 @@ author_profile: true
 redirect_from: 
   - /research.html
 ---
+My substantive political science interests divide in two interconnected streams. First, I'm interested in the exercise of state power through global governance. I intend global governance as the set of institutions, norms, and informal mechanisms set up by states and political actors to address problems of global collective action. These interests include the construction and operations of international organizations and agreements – multilateral or bilateral – or the exercise of state prerogatives beyond borders – _i.e._ extraterritoriality. My research shows multilateral agreements bolster state capacity to exercise domestic regulatory powers beyond borders. However, I also investigate the limits of this mechanism. Far from meaning that states can become global regulators, I show territorial connections still conditions the exercise of state regulatory power.
+
+Second, I study the international political economy of multinational companies (MNCs). I'm interested in how companies respond to instances of global governance. Regulating corporate crime and negative externalities of global production is among the most complex tasks for global governance. Companies can fragment their ownership and supply chains across borders to exploit loopholes and evade regulations. Regulators themselves are often better off by turning an eye blind to MNCs' activities, creating a collective action problem. In my research I show that companies respond to institutionalized and norm-based sanctions to their activities. I show stricter regulations can be conducive to the economic activity of corporations, against the common wisdom that stricter standards create unnecessary costs. I also marginally touch on the effects of companies' multinational economic activity in host states.
+
+Methodologically, I mainly address these topics employing quantitative methods. I'm interested in the application of observational and experimental designs for causal inference. My methodological research interests also include the epistemology of causal inferences derived from quantitative methods. I am also interested in the combination of causal designs with machine learning algorithms for processing large text documents.
+
 ## Working papers
-Crippa, L. (2021). The conditional arm of the law. The effect of the OECD Anti-Bribery Convention on foreign direct investment. _Under review_. [Download paper](https://lorenzo-crippa.github.io/files/conditional_arm.pdf).
+Crippa, L. (2021). "The conditional arm of the law. The effect of the OECD Anti-Bribery Convention on foreign direct investment." _Under review_. [Download paper](https://lorenzo-crippa.github.io/files/conditional_arm.pdf).
 
-Crippa, L., & Genovese, F. (2021). Papal Dividends: Do Pope’s Political Communications Move Economic Markets?
+Crippa, L., & Genovese, F. (2021). "Papal Dividends: Do Pope’s Political Communications Move Economic Markets?"
 
-Crippa, L. (2021). Global Firms and Global Sheriffs. Why Territory Matters for Extraterritorial Enforcement of Regulatory Regimes. [Download paper](https://lorenzo-crippa.github.io/files/sheriffs.pdf).
+Crippa, L. (2021). "Global Firms and Global Sheriffs? Why Territory Matters for Extraterritorial Enforcement of Regulatory Regimes." [Download paper](https://lorenzo-crippa.github.io/files/sheriffs.pdf).
 
-Crippa, L., Gizelis, T. I., Krause, J., & Minoletti, P. (2020). Differences in Citizens’ Budget Preferences in Myanmar: Evidence from a New Survey
+Crippa, L., Gizelis, T. I., Krause, J., & Minoletti, P. (2020). "Differences in Citizens’ Budget Preferences in Myanmar: Evidence from a New Survey."
 
-Crippa, L., Wittek, R., & Silitonga, M. S. (2020). Does Aid Spur Corruption? An Empirical Test of the “Curse of Aid” Hypothesis in Indonesian Provinces. _Under review_
+Crippa, L., Wittek, R., & Silitonga, M. S. (2020). "Does Aid Spur Corruption? An Empirical Test of the 'Curse of Aid' Hypothesis in Indonesian Provinces." _Under review_
 
 ## Work in progress
 
-Crippa, L. Out of Sight, Out of Mind. Why Do Countries Defect from Their Corporate Regulatory Mandates?
+Crippa, L. "Insulator or Conductor? Corporate Ownership and the Effect of Criminal Scandals."
 
-Crippa, L. A Synthetic Counterfactual Solution to the Identification of Staggered Treatment Effects in Unbalanced Panel Data
+Crippa, L. "Out of Sight, Out of Mind. Why Do Countries Defect from Their Corporate Regulatory Mandates?"
 
-Crippa, L., & Saavedra-Lux, L. Go Fight Elsewhere! FDI and the Diffusion of Conflict
+Crippa, L. "A Synthetic Counterfactual Solution to the Identification of Staggered Treatment Effects in Unbalanced Panel Data."
 
-Crippa, L., & Picci, L. Cross-border Corruption and the OECD Anti-Bribery Convention: The Determinants of Compliance
+Crippa, L., & Saavedra-Lux, L. "Go Fight Elsewhere! FDI and the Diffusion of Conflict."
 
-Kostelka, F., Crippa, L., & Swatton P. J. Participation and Inequality in the U.S. States
+Crippa, L., & Picci, L. "Cross-border Corruption and the OECD Anti-Bribery Convention: The Determinants of Compliance."
+
+Kostelka, F., Crippa, L., & Swatton P. J. "Participation and Inequality in the U.S. States."
