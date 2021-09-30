@@ -10,8 +10,8 @@ author_profile: true
 
 _Associate Lecturer (Teaching Fellow)_
 
-- Introduction to Quantitative Methods (Postgraduate, Autumn)
-- Advanced Quantitative Methods (Postgraduate, Spring)
+- Introduction to Quantitative Methods (Postgraduate, Autumn). [Module website](https://uclspp.github.io/PUBL0055/)
+- Advanced Quantitative Methods (Postgraduate, Spring). [Module website](https://uclspp.github.io/PUBL0050/)
 
 ## University of Essex. Essex Summer School in Social Science Data Analysis
 
