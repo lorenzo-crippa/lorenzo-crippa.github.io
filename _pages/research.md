@@ -12,11 +12,11 @@ Second, I study the international political economy of multinational companies (
 Methodologically, I mainly address these topics employing quantitative methods. I'm interested in the application of observational and experimental designs for causal inference. My methodological research interests also include the epistemology of causal inferences derived from quantitative methods.
 
 ## Working papers
-Crippa, L. (2021). "The conditional arm of the law. The effect of the OECD Anti-Bribery Convention on foreign direct investment." _Under review_. [Download paper](https://lorenzo-crippa.github.io/files/conditional_arm.pdf).
+Crippa, L. (2021). "Global Firms and Global Sheriffs? Why Territory Matters for Extraterritorial Enforcement of Regulatory Regimes." [Download paper](https://lorenzo-crippa.github.io/files/sheriffs.pdf).
 
 Crippa, L., & Genovese, F. (2021). "Papal Dividends: Do Pope’s Political Communications Move Economic Markets?"
 
-Crippa, L. (2021). "Global Firms and Global Sheriffs? Why Territory Matters for Extraterritorial Enforcement of Regulatory Regimes." [Download paper](https://lorenzo-crippa.github.io/files/sheriffs.pdf).
+Crippa, L. (2021). "The conditional arm of the law. The effect of the OECD Anti-Bribery Convention on foreign direct investment." _Under review_. [Download paper](https://lorenzo-crippa.github.io/files/conditional_arm.pdf).
 
 Crippa, L., Gizelis, T. I., Krause, J., & Minoletti, P. (2020). "Differences in Citizens’ Budget Preferences in Myanmar: Evidence from a New Survey."
 
