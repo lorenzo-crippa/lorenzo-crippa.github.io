@@ -4,7 +4,7 @@ title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
-## University College London. Department of Political Science
+## UCL. Department of Political Science
 
 ### 2020 -- present
 
