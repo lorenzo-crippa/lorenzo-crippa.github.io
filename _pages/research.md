@@ -26,7 +26,7 @@ Crippa, L., Wittek, R., & Silitonga, M. S. (2020). "Does Aid Spur Corruption? An
 
 Crippa, L. "Insulator or Conductor? Corporate Ownership and the Effect of Criminal Scandals."
 
-Crippa, L. "Out of Sight, Out of Mind. Why Do Countries Defect from Their Corporate Regulatory Mandates?"
+Crippa, L., & Swatton, P. “Out of Sight, Out of Mind. Why Do Countries Defect from Their Corporate Regulatory Mandates?”
 
 Crippa, L. "A Synthetic Counterfactual Solution to the Identification of Staggered Treatment Effects in Unbalanced Panel Data."
 
