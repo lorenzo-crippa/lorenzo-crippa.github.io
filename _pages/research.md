@@ -12,20 +12,16 @@ Crippa, L., & Genovese, F. (2021). "Papal Dividends: Do Pope’s Political Commu
 
 Crippa, L. (2021). "The conditional arm of the law. The effect of the OECD Anti-Bribery Convention on foreign direct investment." [Download paper](https://lorenzo-crippa.github.io/files/conditional_arm.pdf).
 
-Crippa, L., Gizelis, T. I., Krause, J., & Minoletti, P. (2020). "Differences in Citizens’ Budget Preferences in Myanmar: Evidence from a New Survey."
-
-Crippa, L., Wittek, R., & Silitonga, M. S. (2020). "Does Aid Spur Corruption? An Empirical Test of the 'Curse of Aid' Hypothesis in Indonesian Provinces."
-
 ## Work in progress
 
 Crippa, L. "Insulator or Conductor? Corporate Ownership and the Effect of Criminal Scandals."
-
-Crippa, L., & Swatton, P. “Out of Sight, Out of Mind. Why Do Countries Defect from Their Corporate Regulatory Mandates?”
 
 Crippa, L. "A Synthetic Counterfactual Solution to the Identification of Staggered Treatment Effects in Unbalanced Panel Data."
 
 Crippa, L., & Saavedra-Lux, L. "Go Fight Elsewhere! FDI and the Diffusion of Conflict."
 
 Crippa, L., & Picci, L. "Cross-border Corruption and the OECD Anti-Bribery Convention: The Determinants of Compliance."
+
+Crippa, L., Wittek, R., & Silitonga, M. S. "Does Aid Spur Corruption? An Empirical Test of the 'Curse of Aid' Hypothesis in Indonesian Provinces."
 
 Kostelka, F., Crippa, L., & Swatton P. J. "Participation and Inequality in the U.S. States."
