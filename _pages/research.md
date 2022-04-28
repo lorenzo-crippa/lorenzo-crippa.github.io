@@ -6,9 +6,9 @@ redirect_from:
   - /research.html
 ---
 ## Working papers
-Crippa, L. (2021). "Global Firms and Global Sheriffs? Why Territory Matters for Extraterritorial Regulation of Global Corporate Crime." [Download paper](https://lorenzo-crippa.github.io/files/sheriffs.pdf).
+Crippa, L. (2022). "Global Firms and Global Sheriffs? Why Territory Matters for Extraterritorial Regulation of Global Corporate Crime." [Download paper](https://lorenzo-crippa.github.io/files/sheriffs.pdf).
 
-Crippa, L., & Genovese, F. (2021). "Papal Dividends: Do Pope’s Political Communications Move Economic Markets?" [Download paper](https://lorenzo-crippa.github.io/files/papal_dividends.pdf).
+Crippa, L., & Genovese, F. (2022). "Papal Dividends: Popes’ Political Communications and Financial Markets" [Download paper](https://lorenzo-crippa.github.io/files/papal_dividends.pdf).
 
 Crippa, L. (2021). "The conditional arm of the law. The effect of the OECD Anti-Bribery Convention on foreign direct investment." [Download paper](https://lorenzo-crippa.github.io/files/conditional_arm.pdf).
 
