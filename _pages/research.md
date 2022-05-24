@@ -6,19 +6,19 @@ redirect_from:
   - /research.html
 ---
 ## Working papers
-Crippa, L. (2022). "Global Firms and Global Sheriffs? Why Territory Matters for Extraterritorial Regulation of Global Corporate Crime." [Download paper](https://lorenzo-crippa.github.io/files/sheriffs.pdf).
+Crippa, L. "The conditional arm of the law. The effect of the OECD Anti-Bribery Convention on foreign direct investment." Under review at _International Studies Quarterly_. [Download paper](https://lorenzo-crippa.github.io/files/conditional_arm.pdf).
 
-Crippa, L., & Genovese, F. (2022). "Papal Dividends: Popes’ Political Communications and Financial Markets" [Download paper](https://lorenzo-crippa.github.io/files/papal_dividends.pdf).
+Crippa, L. "Global Firms and Global Sheriffs? Why Territory Matters for Extraterritorial Regulation of Global Corporate Crime." [Download paper](https://lorenzo-crippa.github.io/files/sheriffs.pdf).
 
-Crippa, L. (2021). "The conditional arm of the law. The effect of the OECD Anti-Bribery Convention on foreign direct investment." [Download paper](https://lorenzo-crippa.github.io/files/conditional_arm.pdf).
+Crippa, L., & Genovese, F. "Papal Dividends: Popes' Political Communications and Financial Markets" [Download paper](https://lorenzo-crippa.github.io/files/papal_dividends.pdf).
+
+Crippa, L. "The Shield of Ownership. The Limits of Markets' Regulatory Function Against Financial Crime" [Download paper](https://lorenzo-crippa.github.io/files/scandals_ownership.pdf)
 
 ## Work in progress
 
-Crippa, L. "Insulator or Conductor? Corporate Ownership and the Effect of Criminal Scandals."
+Crippa, L., & Swatton P. J. "Out of Sight, Out of Mind. Why Do Countries Defect from Their Corporate Regulatory Mandates?"
 
-Crippa, L. "A Synthetic Counterfactual Solution to the Identification of Staggered Treatment Effects in Unbalanced Panel Data."
-
-Crippa, L., & Saavedra-Lux, L. "Go Fight Elsewhere! FDI and the Diffusion of Conflict."
+Crippa, L., & Saavedra-Lux, L. "The Inadvertent Effect of FDI in Conflict Settings"
 
 Crippa, L., & Picci, L. "Cross-border Corruption and the OECD Anti-Bribery Convention: The Determinants of Compliance."
 
