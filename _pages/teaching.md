@@ -6,7 +6,7 @@ author_profile: true
 ---
 ## UCL. Department of Political Science
 
-### 2020 -- present
+### 2020 -- 2022
 
 _Associate Lecturer (Teaching Fellow)_
 
