@@ -4,7 +4,8 @@ title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
-## UCL. Department of Political Science
+## UCL
+## Department of Political Science
 
 ### 2020 -- 2022
 
@@ -13,7 +14,8 @@ _Associate Lecturer (Teaching Fellow)_
 - Introduction to Quantitative Methods (Postgraduate, Autumn). [Module website](https://uclspp.github.io/PUBL0055/)
 - Advanced Quantitative Methods (Postgraduate, Spring). [Module website](https://uclspp.github.io/PUBL0050/)
 
-## University of Essex. Essex Summer School in Social Science Data Analysis
+## University of Essex
+## Essex Summer School in Social Science Data Analysis
 
 ### 2020, 2021
 
@@ -27,7 +29,8 @@ _Teaching Assistant_
 
 - Advanced Quantitative Data Analysis
 
-## University of Essex. Department of Government
+## University of Essex 
+## Department of Government
 
 ### 2020 -- 2021
 
