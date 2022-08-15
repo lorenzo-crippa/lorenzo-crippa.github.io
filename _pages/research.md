@@ -6,11 +6,11 @@ redirect_from:
   - /research.html
 ---
 ## Working papers
-Crippa, L. "The conditional arm of the law. The effect of the OECD Anti-Bribery Convention on foreign direct investment." Under review at _International Studies Quarterly_. [Download paper](https://lorenzo-crippa.github.io/files/conditional_arm.pdf).
+Crippa, L. "The conditional arm of the law. The effect of the OECD Anti-Bribery Convention on foreign direct investment." Under review. [Download paper](https://lorenzo-crippa.github.io/files/conditional_arm.pdf).
+
+Crippa, L., & Genovese, F. "Papal Dividends: Popes' Political Communications and Financial Markets." Under review. [Download paper](https://lorenzo-crippa.github.io/files/papal_dividends.pdf).
 
 Crippa, L. "Global Firms and Global Sheriffs? Why Territory Matters for Extraterritorial Regulation of Global Corporate Crime." [Download paper](https://lorenzo-crippa.github.io/files/sheriffs.pdf).
-
-Crippa, L., & Genovese, F. "Papal Dividends: Popes' Political Communications and Financial Markets" [Download paper](https://lorenzo-crippa.github.io/files/papal_dividends.pdf).
 
 Crippa, L. "The Shield of Ownership. The Limits of Markets' Regulatory Function Against Financial Crime" [Download paper](https://lorenzo-crippa.github.io/files/scandals_ownership.pdf)
 
