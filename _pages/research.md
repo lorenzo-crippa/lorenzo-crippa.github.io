@@ -6,7 +6,7 @@ redirect_from:
   - /research.html
 ---
 ## Working papers
-Crippa, L. "The conditional arm of the law. The effect of the OECD Anti-Bribery Convention on foreign direct investment." Under review. [Download paper](https://lorenzo-crippa.github.io/files/conditional_arm.pdf).
+Crippa, L. "Do Corporate Regulations Deter or Stimulate Investment? The Effect of the OECD Anti-Bribery Convention on FDI." Under review. [Download paper](https://lorenzo-crippa.github.io/files/regulation_investment.pdf).
 
 Crippa, L., & Genovese, F. "Papal Dividends: Popes' Political Communications and Financial Markets." Under review. [Download paper](https://lorenzo-crippa.github.io/files/papal_dividends.pdf).
 
