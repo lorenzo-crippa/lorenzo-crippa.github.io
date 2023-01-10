@@ -8,19 +8,21 @@ redirect_from:
 ## Working papers
 Crippa, L. "Do Corporate Regulations Deter or Stimulate Investment? The Effect of the OECD Anti-Bribery Convention on FDI." R&R at _The Review of International Organizations_. [Download paper](https://lorenzo-crippa.github.io/files/regulation_investment.pdf).
 
-Crippa, L., & Genovese, F. "Papal Dividends: Popes' Political Communications and Financial Markets." [Download paper](https://lorenzo-crippa.github.io/files/papal_dividends.pdf).
-
 Crippa, L. "Global Firms and Global Sheriffs? Why Territory Matters for Extraterritorial Regulation of Global Corporate Crime." [Download paper](https://lorenzo-crippa.github.io/files/sheriffs.pdf).
 
 Crippa, L. "The Shield of Ownership. The Limits of Markets' Regulatory Function Against Financial Crime" [Download paper](https://lorenzo-crippa.github.io/files/scandals_ownership.pdf)
+
+Crippa, L., & Genovese, F. "Papal Dividends: Popes' Political Communications and Financial Markets." [Download paper](https://lorenzo-crippa.github.io/files/papal_dividends.pdf).
 
 ## Work in progress
 
 Bayer, P., Crippa, L., & Genovese, F. "Big Crises, Small Gains: Distributional Politics and Missed Opportunities of International Energy Transitions"
 
+Bayer, P., & Crippa, L. "Governments' Strategic Role in Information-Producing International Organizations"
+
 Crippa, L., & Kalatzi Pantera, D. "Greening Criminal Records: How Companies Use Environmental Programs to Mitigate Corporate Scandals"
 
-Crippa, L., & Picci, L. "Cross-border Corruption and the OECD Anti-Bribery Convention: The Deter- minants of Compliance."
+Crippa, L., & Picci, L. "Cross-border Corruption and the OECD Anti-Bribery Convention: The Determinants of Compliance."
 
 Crippa, L., & Saavedra-Lux, L. "The Inadvertent Effect of FDI in Conflict Settings."
 
