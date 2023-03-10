@@ -1,6 +1,6 @@
 ---
 permalink: /misc/
-title: "Miscellaneous"
+title: "Mountains"
 author_profile: true
 redirect_from: 
   - /misc.html
@@ -19,10 +19,6 @@ Cimon della Bagozza. Val di Scalve (BG), Italy
 Pizzo Camino, Pizzo della Presolana. Val di Scalve (BG), Italy
 
 ![](https://lorenzo-crippa.github.io/assets_misc/val_di_scalve.jpg)
-
-Gran Sasso d'Italia, Corno Grande (2912m). Gran Sasso e Monti della Laga National Park (AQ), Italy 
-
-![](https://lorenzo-crippa.github.io/assets_misc/gran_sasso_summit.jpg)
 
 Gran Sasso d'Italia. Gran Sasso e Monti della Laga National Park (AQ), Italy
 
