@@ -1,6 +1,6 @@
 ---
 permalink: /misc/
-title: "Mountains"
+title: "Miscellaneous"
 author_profile: true
 redirect_from: 
   - /misc.html
