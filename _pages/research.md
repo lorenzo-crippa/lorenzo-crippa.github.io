@@ -6,12 +6,12 @@ redirect_from:
   - /research.html
 ---
 
-## Under review
-Crippa, L. "Do Corporate Regulations Deter or Stimulate Investment? The Effect of the OECD Anti-Bribery Convention on FDI." R&R at _The Review of International Organizations_. [Download paper](https://lorenzo-crippa.github.io/files/regulation_investment.pdf).
-
-Bayer, P., Crippa, L., Hughes, H., & Hermansen, E. "Government Participation in Virtual Negotiations: Evidence from IPCC Approval Sessions." Under Review at _Climatic Change_. [Download paper](https://lorenzo-crippa.github.io/files/BCHH_CC_SI.pdf)
+## Peer reviewed
+Crippa, L. (2023) "Do Corporate Regulations Deter or Stimulate Investment? The Effect of the OECD Anti-Bribery Convention on FDI." Accepted at _The Review of International Organizations_. [Download paper](https://lorenzo-crippa.github.io/files/regulation_investment.pdf).
 
 ## Working papers
+
+Bayer, P., Crippa, L., Hughes, H., & Hermansen, E. "Government Participation in Virtual Negotiations: Evidence from IPCC Approval Sessions." Under Review at _Climatic Change_. [Download paper](https://lorenzo-crippa.github.io/files/BCHH_CC_SI.pdf)
 
 Crippa, L. "Global Firms and Global Sheriffs? Why Territory Matters for Extraterritorial Regulation of Global Corporate Crime." [Download paper](https://lorenzo-crippa.github.io/files/sheriffs.pdf).
 
