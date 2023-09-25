@@ -5,29 +5,28 @@ author_profile: true
 redirect_from: 
   - /research.html
 ---
-## Working papers
+
+## Under review
 Crippa, L. "Do Corporate Regulations Deter or Stimulate Investment? The Effect of the OECD Anti-Bribery Convention on FDI." R&R at _The Review of International Organizations_. [Download paper](https://lorenzo-crippa.github.io/files/regulation_investment.pdf).
+
+Bayer, P., Crippa, L., Hughes, H., & Hermansen, E. "Government Participation in Virtual Negotiations: Evidence from IPCC Approval Sessions." Under Review at _Climatic Change_. [Download paper](https://lorenzo-crippa.github.io/files/BCHH_CC_SI.pdf)
+
+## Working papers
 
 Crippa, L. "Global Firms and Global Sheriffs? Why Territory Matters for Extraterritorial Regulation of Global Corporate Crime." [Download paper](https://lorenzo-crippa.github.io/files/sheriffs.pdf).
 
-Crippa, L. "The Shield of Ownership. The Limits of Markets' Regulatory Function Against Financial Crime" [Download paper](https://lorenzo-crippa.github.io/files/scandals_ownership.pdf)
+Crippa, L. "The Shield of Ownership. The Limits of Market Sanctions Against Corporate Crime." [Download paper](https://lorenzo-crippa.github.io/files/scandals_ownership.pdf)
 
 Crippa, L., & Genovese, F. "Papal Dividends: Popes' Political Communications and Financial Markets." [Download paper](https://lorenzo-crippa.github.io/files/papal_dividends.pdf).
 
 ## Work in progress
 
-Bayer, P., Crippa, L., & Genovese, F. "Big Crises, Small Gains: Distributional Politics and Missed Opportunities of International Energy Transitions"
+Bayer, P., & Crippa, L. "Government Interference in Information-Producing International Organizations."
 
-Bayer, P., & Crippa, L. "Governments' Strategic Role in Information-Producing International Organizations"
+Bayer, P., Crippa, L., & Genovese, F. "Market Effects of Sluggish Policy Responses: Firm-Level Evidence from the EU's New Climate and Geopolitical Interventionism."
 
-Crippa, L., & Kalatzi Pantera, D. "Greening Criminal Records: How Companies Use Environmental Programs to Mitigate Corporate Scandals"
+Crippa, L., & Kalatzi Pantera, D. "Greening Criminal Records: How Companies Use Environmental Programs to Mitigate Corporate Scandals."
 
-Crippa, L., & Picci, L. "Cross-border Corruption and the OECD Anti-Bribery Convention: The Determinants of Compliance."
+Crippa, L., Malesky, E., & Picci, L. "Leakage in International Regimes: The Case of the OECD Anti-Bribery Convention."
 
-Crippa, L., & Saavedra-Lux, L. "The Inadvertent Effect of FDI in Conflict Settings."
-
-Crippa, L., & Swatton P. J. "Out of Sight, Out of Mind. Why Do Countries Defect from Their Corporate Regulatory Mandates?"
-
-Crippa, L., Wittek, R., & Silitonga, M. S. "Does Aid Spur Corruption? An Empirical Test of the ‘Curse of Aid’ Hypothesis in Indonesian Provinces."
-
-Kostelka, F., Crippa, L., & Swatton P. J. "Participation and Inequality in the U.S. States."
+Crippa, L., & Saavedra-Lux, L. "Double-Edged Sword: Understanding the Localised Effect of FDI Inflow in Conflict Settings."

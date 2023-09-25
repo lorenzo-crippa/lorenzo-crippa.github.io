@@ -15,5 +15,5 @@ main:
   - title: "CV"
     url: /files/cv.pdf
 
-  - title: "Miscellaneous"
-    url: /misc/
+  #- title: "Miscellaneous"
+  #  url: /misc/
