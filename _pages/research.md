@@ -18,7 +18,7 @@ Crippa, L., & Saavedra-Lux, L. "Double-Edged Sword: The Hidden Civilian Toll of 
 
 Crippa, L. "Global Firms and Global Sheriffs? Why Territory Matters for Extraterritorial Regulation of Global Corporate Crime." [Download paper](https://lorenzo-crippa.github.io/files/sheriffs.pdf).
 
-Crippa, L. "The Shield of Ownership. The Limits of Market Sanctions Against Corporate Crime." [Download paper](https://lorenzo-crippa.github.io/files/scandals_ownership.pdf)
+Crippa, L. "The Shield of Ownership: The Limits of Market Sanctions Against Corporate Misconduct." [Download paper](https://lorenzo-crippa.github.io/files/scandals_ownership.pdf)
 
 Crippa, L., & Genovese, F. "Papal Dividends: Popes' Political Communications and Financial Markets." [Download paper](https://lorenzo-crippa.github.io/files/papal_dividends.pdf).
 
