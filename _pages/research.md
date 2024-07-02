@@ -8,14 +8,14 @@ redirect_from:
 
 ## Peer reviewed
 
-Bayer, P., Crippa, L., Hughes, H., & Hermansen, E. "Government Participation in Virtual Negotiations: Evidence from IPCC Approval Sessions." Conditionally accepted at _Climatic Change_ [Download paper](https://lorenzo-crippa.github.io/files/BCHH_CC_SI.pdf)
+Bayer, P., Crippa, L., Hughes, H., & Hermansen, E. "Government Participation in Virtual Negotiations: Evidence from IPCC Approval Sessions." Conditionally accepted at _Climatic Change_. [Download paper](https://lorenzo-crippa.github.io/files/BCHH_CC_SI.pdf)
 
 Crippa, L. (2023) "Do Corporate Regulations Deter or Stimulate Investment? The Effect of the OECD Anti-Bribery Convention on FDI." _The Review of International Organizations_. [Download paper](https://lorenzo-crippa.github.io/files/regulation_investment.pdf).
 
 ## Under review
 Crippa, L., & Saavedra-Lux, L. "Double-Edged Sword: The Hidden Civilian Toll of FDI in Conflict Settings." [Download paper](https://lorenzo-crippa.github.io/files/LC_LSL_FDI_conflict.pdf)
 
-Bayer, P., Crippa, L., Hughes, H., & Hermansen, E. "Mapping Engagement Levels of Governments in IPCC Approval Meetings by Topic from Text." Under review at _Nature Climate Change_.
+Bayer, P., Crippa, L., Hughes, H., & Hermansen, E. "Mapping Engagement Levels of Governments in IPCC Approval Meetings by Topic from Text."
 
 ## Working papers
 
