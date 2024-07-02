@@ -7,12 +7,15 @@ redirect_from:
 ---
 
 ## Peer reviewed
-Crippa, L. (2023) "Do Corporate Regulations Deter or Stimulate Investment? The Effect of the OECD Anti-Bribery Convention on FDI." Forthcoming at _The Review of International Organizations_. [Download paper](https://lorenzo-crippa.github.io/files/regulation_investment.pdf).
+
+Bayer, P., Crippa, L., Hughes, H., & Hermansen, E. "Government Participation in Virtual Negotiations: Evidence from IPCC Approval Sessions." Conditionally accepted at _Climatic Change_ [Download paper](https://lorenzo-crippa.github.io/files/BCHH_CC_SI.pdf)
+
+Crippa, L. (2023) "Do Corporate Regulations Deter or Stimulate Investment? The Effect of the OECD Anti-Bribery Convention on FDI." _The Review of International Organizations_. [Download paper](https://lorenzo-crippa.github.io/files/regulation_investment.pdf).
 
 ## Under review
-Bayer, P., Crippa, L., Hughes, H., & Hermansen, E. "Government Participation in Virtual Negotiations: Evidence from IPCC Approval Sessions." [Download paper](https://lorenzo-crippa.github.io/files/BCHH_CC_SI.pdf)
-
 Crippa, L., & Saavedra-Lux, L. "Double-Edged Sword: The Hidden Civilian Toll of FDI in Conflict Settings." [Download paper](https://lorenzo-crippa.github.io/files/LC_LSL_FDI_conflict.pdf)
+
+Bayer, P., Crippa, L., Hughes, H., & Hermansen, E. "Mapping Engagement Levels of Governments in IPCC Approval Meetings by Topic from Text." Under review at _Nature Climate Change_.
 
 ## Working papers
 
@@ -22,12 +25,11 @@ Crippa, L. "The Shield of Ownership: The Limits of Market Sanctions Against Corp
 
 Crippa, L., & Genovese, F. "Papal Dividends: Popes' Political Communications and Financial Markets." [Download paper](https://lorenzo-crippa.github.io/files/papal_dividends.pdf).
 
+Bayer, P., Crippa, L., & Genovese, F. "Energy Transition, Financial Markets and EU Interventionism." [Download paper](https://lorenzo-crippa.github.io/files/bcg.pdf)
 
 ## Work in progress
 
-Bayer, P., & Crippa, L. "Government Interference in Information-Producing International Organizations."
-
-Bayer, P., Crippa, L., & Genovese, F. "Market Effects of Sluggish Policy Responses: Firm-Level Evidence from the EU's New Climate and Geopolitical Interventionism."
+Bayer, P., & Crippa, L. "Government Interference in Information-Producing International Organization."
 
 Crippa, L., & Kalatzi Pantera, D. "Greening Criminal Records: How Companies Use Environmental Programs to Mitigate Corporate Scandals."
 
