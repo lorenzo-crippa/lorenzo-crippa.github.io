@@ -8,9 +8,9 @@ redirect_from:
 
 ## Peer reviewed
 
-"Government Participation in Virtual Negotiations: Evidence from IPCC Approval Sessions." (2024) _Climatic Change_. (with Bayer, P., Hughes, H., & Hermansen, E.)[Download paper](https://lorenzo-crippa.github.io/files/BCHH_CC_SI.pdf)
+"Government Participation in Virtual Negotiations: Evidence from IPCC Approval Sessions." _Climatic Change_ 177, 132 (2024). (with Bayer, P., Hughes, H., & Hermansen, E.)[Download paper](https://lorenzo-crippa.github.io/files/BCHH_CC_SI.pdf)
 
-"Do Corporate Regulations Deter or Stimulate Investment? The Effect of the OECD Anti-Bribery Convention on FDI." (2023) _The Review of International Organizations_. [Download paper](https://lorenzo-crippa.github.io/files/regulation_investment.pdf).
+"Do Corporate Regulations Deter or Stimulate Investment? The Effect of the OECD Anti-Bribery Convention on FDI." _The Review of International Organizations_ (2023). [Download paper](https://lorenzo-crippa.github.io/files/regulation_investment.pdf).
 
 ## Under review
 
