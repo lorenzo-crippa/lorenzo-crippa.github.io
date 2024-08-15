@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am a Research Associate at the University of Glasgow. From January 2025 I'll be Lecturer (Assistant Professor) in Political Economy at the University of Strathclyde. I obtained my PhD in 2022 at the University of Essex. I study international regulatory politics and the global governance of multinational companies (MNCs). In particular, my research often investigates whether and to what extent international markets and their actors (MNCs, investors) can promote or obstacle the development and application of social and political goals.
+Hi! I am a Research Associate at the University of Glasgow. I study international regulatory politics and the global governance of multinational companies (MNCs). In particular, my research often investigates whether and to what extent international markets and their actors (MNCs, investors) can promote or obstacle the development and application of social and political goals.
 
 My PhD thesis has investigated these themes in the case of the regulation of corporate corruption. I have studied the effects of anti-bribery regulations on companies' foreign investment and portfolio performance. I showed that countries can leverage rules agreed-upon under the umbrella of international agreements to impose regulatory costs, thus deterring misconduct and pushing their regulatory reach beyond borders. I argued that, under international agreements, states can wield regulations against MNCs' foreign crime by leveraging the very cross-border corporate networks that firms use to further criminal activity. I studied scope and limits of this regulatory strategy.
 
