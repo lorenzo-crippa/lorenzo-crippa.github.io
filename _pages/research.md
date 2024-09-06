@@ -18,11 +18,11 @@ redirect_from:
 
 "American Economic Coercion and Elite Re-Globalization." (with Kalyanpur, N.) [Download paper](https://lorenzo-crippa.github.io/files/FCPA_offshore_wealth.pdf)
 
+"Double-Edged Sword: The Hidden Civilian Toll of FDI in Conflict Settings." (with Saavedra-Lux, L.) [Download paper](https://lorenzo-crippa.github.io/files/LC_LSL_FDI_conflict.pdf)
+
 "Mapping Engagement Levels of Governments in IPCC Approval Meetings by Topic from Text." (with Bayer, P., Hughes, H., & Hermansen, E.)
 
 ## Working papers
-
-"Double-Edged Sword: The Hidden Civilian Toll of FDI in Conflict Settings." (with Saavedra-Lux, L.) [Download paper](https://lorenzo-crippa.github.io/files/LC_LSL_FDI_conflict.pdf)
 
 "Global Firms and Global Sheriffs? Why Territory Matters for Extraterritorial Enforcement of International Regimes." [Download paper](https://lorenzo-crippa.github.io/files/sheriffs.pdf).
 
@@ -34,9 +34,12 @@ redirect_from:
 
 "Government Interference in Information-Producing International Organization." (with Bayer, P.)
 
+"The Politics of Personal Ties in International Climate Science Production" (with Bayer, P.)
+
 "Greening Criminal Records: How Companies Use Environmental Programs to Mitigate Corporate Scandals." (with Kalatzi Pantera, D.)
+
+"Estimating the Boundaries of Economic Coercion in the US-China Relationship" (with Kalyanpur, N. and Newman, A.)
 
 "Leakage in International Regimes: The Case of the OECD Anti-Bribery Convention." (with Malesky, E., & Picci, L.)
 
 "DETrACT: Database on the Enforcement of Transnational Anti-Corruption Treaties."---**Data project** (with Picci L.)
-
