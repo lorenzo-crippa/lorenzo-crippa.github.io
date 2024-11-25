@@ -14,32 +14,37 @@ redirect_from:
 
 ## Under review
 
-“Energy Transition, Financial Markets and EU Interventionism." (with Bayer, P., & Genovese, F.) [Download paper](https://lorenzo-crippa.github.io/files/bcg.pdf)
-
 "American Economic Coercion and Elite Re-Globalization." (with Kalyanpur, N.) [Download paper](https://lorenzo-crippa.github.io/files/FCPA_offshore_wealth.pdf)
 
 "Double-Edged Sword: The Hidden Civilian Toll of FDI in Conflict Settings." (with Saavedra-Lux, L.) [Download paper](https://lorenzo-crippa.github.io/files/LC_LSL_FDI_conflict.pdf)
 
+“Energy Transition, Financial Markets and EU Interventionism." (with Bayer, P., & Genovese, F.) [Download paper](https://lorenzo-crippa.github.io/files/bcg.pdf)
+
 "Mapping Engagement Levels of Governments in IPCC Approval Meetings by Topic from Text." (with Bayer, P., Hughes, H., & Hermansen, E.)
+
+"Papal Dividends: Popes' Political Communications and Financial Markets." (with Genovese, F.) [Download paper](https://lorenzo-crippa.github.io/files/papal_dividends.pdf).
 
 ## Working papers
 
 "Global Firms and Global Sheriffs? Why Territory Matters for Extraterritorial Enforcement of International Regimes." [Download paper](https://lorenzo-crippa.github.io/files/sheriffs.pdf).
 
+"Greening Criminal Records: How Voluntary Emission-Reduction Targets Restore Corporate Reputation." (with Kalatzi Pantera, D.) [Download paper](https://lorenzo-crippa.github.io/files/LC_DKP_green_fraud.pdf).
+
 "The Shield of Ownership: The Limits of Market Sanctions Against Corporate Misconduct." [Download paper](https://lorenzo-crippa.github.io/files/scandals_ownership.pdf)
 
-"Papal Dividends: Popes' Political Communications and Financial Markets." (with Genovese, F.) [Download paper](https://lorenzo-crippa.github.io/files/papal_dividends.pdf).
 
 ## Work in progress
 
-"Government Interference in Information-Producing International Organization." (with Bayer, P.)
+"Compliance and Leakages in International Regimes: The Case of the OECD Anti-Bribery Convention." (with Malesky, E., & Picci, L.)
 
-"The Politics of Personal Ties in International Climate Science Production" (with Bayer, P.)
-
-"Greening Criminal Records: How Companies Use Environmental Programs to Mitigate Corporate Scandals." (with Kalatzi Pantera, D.)
+"Creative Carbon Accounting and Corporate Ownership. How Do Firms Account for Subsidiary Emissions?"
 
 "Estimating the Boundaries of Economic Coercion in the US-China Relationship" (with Kalyanpur, N. and Newman, A.)
 
-"Leakage in International Regimes: The Case of the OECD Anti-Bribery Convention." (with Malesky, E., & Picci, L.)
+"Government Interference in Information-Producing International Organization." (with Bayer, P.)
+
+"Industrial Emission Reductions as Political Favors" (with M. Gehrke and D. Kalatzi Pantera)
+
+"The Politics of Personal Ties in International Climate Science Production" (with Bayer, P.)
 
 "DETrACT: Database on the Enforcement of Transnational Anti-Corruption Treaties."---**Data project** (with Picci L.)
