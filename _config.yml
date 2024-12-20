@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Lorenzo Crippa"
   avatar           : "LorenzoCrippa.jpg"
-  bio              : "Research Associate at the University of Glasgow. I study international political economy and the global governance of multinational companies."
+  bio              : "Lecturer at the University of Strathclyde. I study international political economy and the global governance of multinational companies."
   location         : "Glasgow (GB)"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=lcje7xwAAAAJ&hl=en"
-  email            : "lorenzo.crippa@glasgow.ac.uk"
+  email            : "l.crippa@strath.ac.uk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
