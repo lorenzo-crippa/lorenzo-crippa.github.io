@@ -4,6 +4,16 @@ title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
+
+## Strathclyde, Department of Government and Public Policy
+
+### 2025
+
+- International Institutions and Regimes (Postgradate, Spring).
+
+
+# Former teaching
+
 ## UCL, Department of Political Science
 
 ### 2020 -- 2022
