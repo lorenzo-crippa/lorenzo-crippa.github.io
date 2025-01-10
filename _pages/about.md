@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am a Lecturer in Political Economy at the University of Strathclyde. 
+Welcome! I am a Lecturer in Political Economy at the [University of Strathclyde](https://pureportal.strath.ac.uk/en/persons/lorenzo-crippa) where I am also affiliated with the [Center for Energy Policy](https://www.strath.ac.uk/humanities/centreforenergypolicy/). 
 
 I do research in the field of international political economy, with a particular interest in firms, international organizations, and the global governance of multinational companies (MNCs). My primary goal is to study the behaviors of firms as they contribute to global issues. I explore solutions to address these challenges, including state regulation, international law/organizations, and market-based or voluntary initiatives. I study these themes mainly in the realm of bribery and climate behavior.
 
