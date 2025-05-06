@@ -28,7 +28,11 @@ redirect_from:
 
 "Greening Criminal Records: How Voluntary Emission-Reduction Targets Restore Corporate Reputation." (with Kalatzi Pantera, D.) [Download paper](https://lorenzo-crippa.github.io/files/LC_DKP_green_fraud.pdf).
 
+"Making Bribery Profitable Again? The Market Effects of Halting Extraterritorial Accountability for Overseas Bribery" (with E. Malesky and L. Picci) [Download paper](https://lorenzo-crippa.github.io/files/CMP_FCPA_Trump.pdf).
+
 "Papal Dividends: Popes' Political Communications and Financial Markets." (with Genovese, F.) [Download paper](https://lorenzo-crippa.github.io/files/papal_dividends.pdf).
+
+"Unpacking Compliance and Leakages in International Regimes: The Case of the OECD Anti-Bribery Convention" (with E. Malesky and L. Picci) [Download paper](https://lorenzo-crippa.github.io/files/CMP_OECD_ABC.pdf).
 
 ## Working papers
 
@@ -40,12 +44,8 @@ redirect_from:
 
 ## Work in progress
 
-"Compliance and Leakages in International Regimes: The Case of the OECD Anti-Bribery Convention" (with E. Malesky and L. Picci)
-
 "Governments as Reviewers in International Cooperation" (with P. Bayer)
 
 "Industrial Emission Reductions as Political Favors" (with M. Gehrke and D. Kalatzi Pantera)
-
-"Making Bribery Profitable Again? The Market Effects of the US Cessation of Foreign Bribery Enforcement" (with E. Malesky and L. Picci)
 
 "Favored Review? The Politics of National Ties in IO Reports" (with P. Bayer)
