@@ -6,46 +6,37 @@ redirect_from:
   - /research.html
 ---
 
-## Peer reviewed
+## Peer-reviewed
 
-"Government Participation in Virtual Negotiations: Evidence from IPCC Approval Sessions." _Climatic Change_ 177, 132 (2024). With Bayer, P., Hughes, H., & Hermansen, E. [Download paper](https://lorenzo-crippa.github.io/files/BCHH_CC_SI.pdf).
+**Crippa, L.**, N. Kalyanpur, and A. Newman. 2026. [Financial Sanctions Spillovers and Firm Interdependence](https://doi.org/10.1086/740171). Forthcoming at The Journal of Politics.
 
-"Do Corporate Regulations Deter or Stimulate Investment? The Effect of the OECD Anti-Bribery Convention on FDI." _The Review of International Organizations_ (2023). [Download paper](https://lorenzo-crippa.github.io/files/regulation_investment.pdf).
+Brodeur, A., D. Mikola, N. Cook, L. Fiala, . . . , **L. Crippa**, et al (348 coauthors). 2026. “Computational Reproducibility and Robustness of Empirical Economics and Political Science Research Between 2022 and 2023”. Conditionally Accepted at _Nature_.
 
-## Invited to revise and resubmit
+**Crippa, L.**, E. Malesky, and L. Picci. 2025. [Making Bribery Profitable Again? The Market Effects of Suspending Accountability for Overseas Bribery](https://doi.org/10.1017/S0020818325100970). _International Organization_ 79 (4), 739 – 758.
 
-“Energy Transition, Financial Markets and EU Interventionism." (with Bayer, P., & Genovese, F.) [Download paper](https://lorenzo-crippa.github.io/files/bcg.pdf) R&R at _Political Science Research & Methods_
+Bayer, P., **L. Crippa**, and F. Genovese. 2025. [Energy Transition, Financial Markets, and EU Interventionism: Lessons from the Ukraine Crisis](https://doi.org/10.1017/psrm.2025.10054). _Political Science Research & Methods_, 1 – 19.
 
-"Financial Sanctions Spillovers and Firm Interdependence" (with N. Kalyanpur and A. Newman). [Download paper](https://lorenzo-crippa.github.io/files/CKN_ChinaSanctions.pdf) R&R at _The Journal of Politics_
+**Crippa, L.** 2025. [Do Corporate Regulations Deter or Stimulate Investment? The Effect of the OECD Anti-Bribery Convention on FDI](https://doi.org/10.1007/s11558-023-09519-y). _The Review of International Organizations_ 20, 415 – 441.
 
-"Mapping Engagement Levels of Governments in IPCC Approval Meetings by Topic from Text." Conditionally accepted at _PLOS ONE_ (with Bayer, P., Hughes, H., & Hermansen, E.) R&R at _Communications Earth & Environment_
+Bayer, P., **L. Crippa**, H. Hughes, and E. Hermansen. 2024. [Government Participation in Virtual Negotiations: Evidence from IPCC Approval Sessions](https://doi.org/10.1007/s10584-024-03790-7). _Climatic Change_ 177, 132.
 
-## Under review
-
-"American Economic Coercion and Elite Re-Globalization." (with Kalyanpur, N.) [Download paper](https://lorenzo-crippa.github.io/files/FCPA_offshore_wealth.pdf)
-
-"Government Influence in Information Production in International Organizations." (with Bayer, P.) [Download paper](https://lorenzo-crippa.github.io/files/BC_IPCC_information.pdf)
-
-"Greening Criminal Records: How Voluntary Emission-Reduction Targets Restore Corporate Reputation." (with Kalatzi Pantera, D.) [Download paper](https://lorenzo-crippa.github.io/files/LC_DKP_green_fraud.pdf).
-
-"Making Bribery Profitable Again? The Market Effects of Halting Extraterritorial Accountability for Overseas Bribery" (with E. Malesky and L. Picci) [Download paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5241230).
-
-"Papal Dividends: Popes' Political Communications and Financial Markets." (with Genovese, F.) [Download paper](https://lorenzo-crippa.github.io/files/papal_dividends.pdf).
-
-"Unpacking Compliance and Leakages in International Regimes: The Case of the OECD Anti-Bribery Convention" (with E. Malesky and L. Picci) [Download paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5241232).
 
 ## Working papers
 
-"Double-Edged Sword: The Hidden Civilian Toll of FDI in Conflict Settings." (with Saavedra-Lux, L.) [Download paper](https://lorenzo-crippa.github.io/files/LC_LSL_FDI_conflict.pdf)
+Bayer, P. and **L. Crippa.** Government Influence in Information Production in International Organizations. R&R at _American Journal of Political Science_. [Download paper](https://lorenzo-crippa.github.io/files/BC_IPCC_information.pdf)
 
-"Global Firms and Global Sheriffs? Why Territory Matters for Extraterritorial Enforcement of International Regimes." [Download paper](https://lorenzo-crippa.github.io/files/sheriffs.pdf).
+Bayer, P., **L. Crippa**, H. Hughes, and E. Hermansen. Mapping Engagement Levels of Governments in IPCC Approval Meetings by Topic from Text. R&R at _Communications Sustainability_.
 
-"The Shield of Ownership: The Limits of Market Sanctions Against Corporate Misconduct." [Download paper](https://lorenzo-crippa.github.io/files/scandals_ownership.pdf)
+**Crippa, L.**. Global Firms and Global Sheriffs? Why Territory Matters for Extraterritorial Enforcement of International Regimes. [Download paper](https://lorenzo-crippa.github.io/files/sheriffs.pdf).
 
-## Work in progress
+**Crippa, L.**. The Shield of Ownership: The Limits of Market Sanctions Against Corruption. [Download paper](https://lorenzo-crippa.github.io/files/scandals_ownership.pdf)
 
-"Governments as Reviewers in International Cooperation" (with P. Bayer)
+**Crippa, L.** and D. Kalatzi Pantera. Greening Criminal Records: How Voluntary Emission-Reduction Targets Restore Corporate Reputation. R&R at _American Journal of Political Science_. [Download paper](https://lorenzo-crippa.github.io/files/LC_DKP_green_fraud.pdf)
 
-"Industrial Emission Reductions as Political Favors" (with M. Gehrke and D. Kalatzi Pantera)
+**Crippa, L.** and N. Kalyanpur. American Economic Coercion and Elite Re-Globalization. [Download paper](https://lorenzo-crippa.github.io/files/FCPA_offshore_wealth.pdf)
 
-"Favored Review? The Politics of National Ties in IO Reports" (with P. Bayer)
+**Crippa, L.**, E. Malesky, and L. Picci. Unpacking Compliance and Leakages in International Regimes: The Case of the OECD Anti-Bribery Convention. R&R at _The Journal of Politics_. [Download paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5241232)
+
+**Crippa, L.** and L. Saavedra-Lux. Double-Edged Sword: The Hidden Civilian Toll of FDI in Conflict Settings. [Download paper](https://lorenzo-crippa.github.io/files/LC_LSL_FDI_conflict.pdf)
+
+**Crippa, L.** and F. Genovese. Papal Dividends: Popes’ Political Communications and Financial Markets. [Download paper](https://lorenzo-crippa.github.io/files/papal_dividends.pdf)
