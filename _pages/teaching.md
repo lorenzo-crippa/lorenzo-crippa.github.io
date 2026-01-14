@@ -9,7 +9,9 @@ author_profile: true
 
 ### 2025 --
 
-- International Institutions and Regimes (Postgradate).
+_Instructor_
+
+- International Institutions and Regimes (Postgraduate).
 
 
 # Former teaching
