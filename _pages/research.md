@@ -8,7 +8,7 @@ redirect_from:
 
 ## Peer-reviewed
 
-**Crippa, L.**, N. Kalyanpur, and A. Newman. 2026. [Financial Sanctions Spillovers and Firm Interdependence](https://doi.org/10.1086/740171). Forthcoming at The Journal of Politics.
+**Crippa, L.**, N. Kalyanpur, and A. Newman. 2026. [Financial Sanctions Spillovers and Firm Interdependence](https://doi.org/10.1086/740171). Forthcoming at _The Journal of Politics_.
 
 Brodeur, A., D. Mikola, N. Cook, L. Fiala, . . . , **L. Crippa**, et al (348 coauthors). 2026. “Computational Reproducibility and Robustness of Empirical Economics and Political Science Research Between 2022 and 2023”. Conditionally Accepted at _Nature_.
 
