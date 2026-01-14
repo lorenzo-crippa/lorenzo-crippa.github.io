@@ -27,7 +27,7 @@ Bayer, P. and **L. Crippa.** Government Influence in Information Production in I
 
 Bayer, P., **L. Crippa**, H. Hughes, and E. Hermansen. Mapping Engagement Levels of Governments in IPCC Approval Meetings by Topic from Text. R&R at _Communications Sustainability_.
 
-**Crippa, L.**. Global Firms and Global Sheriffs? Why Territory Matters for Extraterritorial Enforcement of International Regimes. [Download paper](https://lorenzo-crippa.github.io/files/sheriffs.pdf).
+**Crippa, L.**. Global Firms and Global Sheriffs? Why Territory Matters for Extraterritorial Enforcement of International Regimes. [Download paper](https://lorenzo-crippa.github.io/files/sheriffs.pdf)
 
 **Crippa, L.**. The Shield of Ownership: The Limits of Market Sanctions Against Corruption. [Download paper](https://lorenzo-crippa.github.io/files/scandals_ownership.pdf)
 
