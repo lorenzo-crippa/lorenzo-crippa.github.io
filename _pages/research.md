@@ -27,16 +27,17 @@ Bayer, P. and **L. Crippa.** Government Influence in Information Production in I
 
 Bayer, P., **L. Crippa**, H. Hughes, and E. Hermansen. Mapping Engagement Levels of Governments in IPCC Approval Meetings by Topic from Text. R&R at _Communications Sustainability_.
 
+**Crippa, L.** and D. Kalatzi Pantera. Greening Criminal Records: How Voluntary Emission-Reduction Targets Restore Corporate Reputation. R&R at _American Journal of Political Science_. [Download paper](https://lorenzo-crippa.github.io/files/LC_DKP_green_fraud.pdf)
+
+**Crippa, L.**, E. Malesky, and L. Picci. Unpacking Compliance and Leakages in International Regimes: The Case of the OECD Anti-Bribery Convention. R&R at _The Journal of Politics_. [Download paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5241232)
+
 **Crippa, L.**. Global Firms and Global Sheriffs? Why Territory Matters for Extraterritorial Enforcement of International Regimes. [Download paper](https://lorenzo-crippa.github.io/files/sheriffs.pdf)
 
 **Crippa, L.**. The Shield of Ownership: The Limits of Market Sanctions Against Corruption. [Download paper](https://lorenzo-crippa.github.io/files/scandals_ownership.pdf)
 
-**Crippa, L.** and D. Kalatzi Pantera. Greening Criminal Records: How Voluntary Emission-Reduction Targets Restore Corporate Reputation. R&R at _American Journal of Political Science_. [Download paper](https://lorenzo-crippa.github.io/files/LC_DKP_green_fraud.pdf)
+**Crippa, L.** and F. Genovese. Papal Dividends: Popes’ Political Communications and Financial Markets. [Download paper](https://lorenzo-crippa.github.io/files/papal_dividends.pdf)
 
 **Crippa, L.** and N. Kalyanpur. American Economic Coercion and Elite Re-Globalization. [Download paper](https://lorenzo-crippa.github.io/files/FCPA_offshore_wealth.pdf)
 
-**Crippa, L.**, E. Malesky, and L. Picci. Unpacking Compliance and Leakages in International Regimes: The Case of the OECD Anti-Bribery Convention. R&R at _The Journal of Politics_. [Download paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5241232)
-
 **Crippa, L.** and L. Saavedra-Lux. Double-Edged Sword: The Hidden Civilian Toll of FDI in Conflict Settings. [Download paper](https://lorenzo-crippa.github.io/files/LC_LSL_FDI_conflict.pdf)
 
-**Crippa, L.** and F. Genovese. Papal Dividends: Popes’ Political Communications and Financial Markets. [Download paper](https://lorenzo-crippa.github.io/files/papal_dividends.pdf)
