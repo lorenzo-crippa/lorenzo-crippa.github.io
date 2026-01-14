@@ -9,7 +9,7 @@ author_profile: true
 
 ### 2025 --
 
-- International Institutions and Regimes (Postgradate, Spring).
+- International Institutions and Regimes (Postgradate).
 
 
 # Former teaching
@@ -20,8 +20,8 @@ author_profile: true
 
 _Associate Lecturer (Teaching Fellow)_
 
-- Introduction to Quantitative Methods (Postgraduate, Autumn). [Module website](https://uclspp.github.io/PUBL0055/)
-- Advanced Quantitative Methods (Postgraduate, Spring). [Module website](https://uclspp.github.io/PUBL0050/)
+- Introduction to Quantitative Methods (Postgraduate). [Module website](https://uclspp.github.io/PUBL0055/)
+- Advanced Quantitative Methods (Postgraduate). [Module website](https://uclspp.github.io/PUBL0050/)
 
 ## Essex Summer School in Social Science Data Analysis
 
@@ -43,7 +43,7 @@ _Teaching Assistant_
 
 _Graduate Teaching Assistant_
 
-- Quantitative Political Analysis (Full year). [Download class content](https://github.com/lorenzo-crippa/GV300)
+- Quantitative Political Analysis (Undergraduate). [Download class content](https://github.com/lorenzo-crippa/GV300)
 
-- Politics and Economic Policies (Autumn term). [Download class content](https://github.com/lorenzo-crippa/GV120)
+- Politics and Economic Policies (Undergraduate). [Download class content](https://github.com/lorenzo-crippa/GV120)
 
