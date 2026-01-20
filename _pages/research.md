@@ -8,17 +8,17 @@ redirect_from:
 
 ## Peer-reviewed
 
-**Crippa, L.**, N. Kalyanpur, and A. Newman. 2026. [Financial Sanctions Spillovers and Firm Interdependence](https://doi.org/10.1086/740171). Forthcoming at _The Journal of Politics_.
+**Crippa, L.**, N. Kalyanpur, and A. Newman. 2026. [Financial Sanctions Spillovers and Firm Interdependence](https://doi.org/10.1086/740171). Forthcoming at _The Journal of Politics_. [Access data](https://doi.org/10.7910/DVN/OCVIH9).
 
 Brodeur, A., D. Mikola, N. Cook, L. Fiala, . . . , **L. Crippa**, et al (348 coauthors). 2026. “Computational Reproducibility and Robustness of Empirical Economics and Political Science Research Between 2022 and 2023”. Conditionally Accepted at _Nature_.
 
-**Crippa, L.**, E. Malesky, and L. Picci. 2025. [Making Bribery Profitable Again? The Market Effects of Suspending Accountability for Overseas Bribery](https://doi.org/10.1017/S0020818325100970). _International Organization_ 79 (4), 739 – 758.
+**Crippa, L.**, E. Malesky, and L. Picci. 2025. [Making Bribery Profitable Again? The Market Effects of Suspending Accountability for Overseas Bribery](https://doi.org/10.1017/S0020818325100970). _International Organization_ 79 (4), 739 – 758. [Access data](https://doi.org/10.7910/DVN/BM6ZEP).
 
-Bayer, P., **L. Crippa**, and F. Genovese. 2025. [Energy Transition, Financial Markets, and EU Interventionism: Lessons from the Ukraine Crisis](https://doi.org/10.1017/psrm.2025.10054). _Political Science Research & Methods_, 1 – 19.
+Bayer, P., **L. Crippa**, and F. Genovese. 2025. [Energy Transition, Financial Markets, and EU Interventionism: Lessons from the Ukraine Crisis](https://doi.org/10.1017/psrm.2025.10054). _Political Science Research & Methods_, 1 – 19. [Access data](https://doi.org/10.7910/DVN/GJSW9U).
 
-**Crippa, L.** 2025. [Do Corporate Regulations Deter or Stimulate Investment? The Effect of the OECD Anti-Bribery Convention on FDI](https://doi.org/10.1007/s11558-023-09519-y). _The Review of International Organizations_ 20, 415 – 441.
+**Crippa, L.** 2025. [Do Corporate Regulations Deter or Stimulate Investment? The Effect of the OECD Anti-Bribery Convention on FDI](https://doi.org/10.1007/s11558-023-09519-y). _The Review of International Organizations_ 20, 415 – 441. [Access data](https://doi.org/10.7910/DVN/JTGGLJ).
 
-Bayer, P., **L. Crippa**, H. Hughes, and E. Hermansen. 2024. [Government Participation in Virtual Negotiations: Evidence from IPCC Approval Sessions](https://doi.org/10.1007/s10584-024-03790-7). _Climatic Change_ 177, 132.
+Bayer, P., **L. Crippa**, H. Hughes, and E. Hermansen. 2024. [Government Participation in Virtual Negotiations: Evidence from IPCC Approval Sessions](https://doi.org/10.1007/s10584-024-03790-7). _Climatic Change_ 177, 132. [Access data](https://doi.org/10.7910/DVN/SLSXZS).
 
 
 ## Working papers
