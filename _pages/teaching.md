@@ -13,6 +13,8 @@ _Instructor_
 
 - International Institutions and Regimes (Postgraduate).
 
+- Quantitative Methods I (Postgraduate).
+
 
 # Former teaching
 

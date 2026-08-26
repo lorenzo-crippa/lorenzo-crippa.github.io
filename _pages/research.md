@@ -8,7 +8,9 @@ redirect_from:
 
 ## Peer-reviewed
 
-**Crippa, L.**, E. Malesky, and L. Picci. Unpacking Compliance and Leakages in International Regimes: The Case of the OECD Anti-Bribery Convention. Conditionally Accepted at _The Journal of Politics_. [Download paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5241232)
+Bayer, P., **L. Crippa**, H. Hughes, and E. Hermansen. 2026. Mapping and Quantifying Engagement Levels of Governments in IPCC Approval Meetings by Topic from Text. Conditionally accepted at _PLoS Climate_
+
+**Crippa, L.**, E. Malesky, and L. Picci. 2026. Unpacking Compliance and Leakages in International Regimes: The Case of the OECD Anti-Bribery Convention. Forthcoming at _The Journal of Politics_. [Download paper](https://doi.org/10.1086/742490)
 
 **Crippa, L.**, N. Kalyanpur, and A. Newman. 2026. [Financial Sanctions Spillovers and Firm Interdependence](https://doi.org/10.1086/740171). Forthcoming at _The Journal of Politics_. [Access data](https://doi.org/10.7910/DVN/OCVIH9).
 
@@ -25,8 +27,6 @@ Bayer, P., **L. Crippa**, H. Hughes, and E. Hermansen. 2024. [Government Partici
 ## Working papers
 
 Bayer, P. and **L. Crippa.** Government Influence in Information Production in International Organizations. [Download paper](https://lorenzo-crippa.github.io/files/BC_IPCC_information.pdf)
-
-Bayer, P., **L. Crippa**, H. Hughes, and E. Hermansen. Mapping Engagement Levels of Governments in IPCC Approval Meetings by Topic from Text.
 
 **Crippa, L.** and D. Kalatzi Pantera. Greening Criminal Records: How Voluntary Emission-Reduction Targets Restore Corporate Reputation. [Download paper](https://lorenzo-crippa.github.io/files/LC_DKP_green_fraud.pdf)
 
