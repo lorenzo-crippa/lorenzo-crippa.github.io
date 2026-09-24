@@ -9,7 +9,7 @@ redirect_from:
 ## Peer-reviewed
 _If not Open Access and if allowed by journal policy, a link to the Author Accepted Manuscript is provided_
 
-9. **Crippa, L.** and N. Kalyanpur. American Economic Coercion and Elite Re-Globalization. Accepted at _International Organization_ (2026). [Download paper](https://lorenzo-crippa.github.io/files/FCPA_offshore_wealth.pdf). [Download data](https://doi.org/10.7910/DVN/FEF0QF).
+9. **Crippa, L.** and N. Kalyanpur. American Economic Coercion and Elite Re-Globalization. Accepted at _International Organization_ (2026). [Download paper](https://lorenzo-crippa.github.io/files/CK_FCPA_offshore_wealth.pdf). [Download data](https://doi.org/10.7910/DVN/FEF0QF).
 
 8. Bayer, P., **L. Crippa**, H. Hughes, and E. Hermansen. [Mapping and Quantifying Engagement Levels of Governments in IPCC Approval Meetings by Topic from Text](https://doi.org/10.1371/journal.pclm.0001057). _PLOS Climate_ (2026). 5(9): e0001057. [Download data](https://doi.org/10.7910/DVN/OCVIH9).
 
